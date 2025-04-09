@@ -1,0 +1,11 @@
+{
+  "entity.minecraft.villager.oceanvillagertrader.ocean_trader": "바다 상인",
+  "item.oceanvillagertrader.turtle_axe": "거북 도끼",
+  "item.oceanvillagertrader.turtle_armor_chestplate": "거북 흉갑",
+  "item.oceanvillagertrader.turtle_armor_leggings": "거북 레깅스",
+  "item.oceanvillagertrader.turtle_sword": "거북 검",
+  "item.oceanvillagertrader.sea_pickle": "불우렁쉥이 음식",
+  "item.oceanvillagertrader.turtle_armor_boots": "거북 부츠",
+  "item.oceanvillagertrader.starfish": "불가사리",
+  "item_group.oceanvillagertrader.ocean_villager_trader": "바다 상인 주민"
+}

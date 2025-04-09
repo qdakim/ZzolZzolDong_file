@@ -1,0 +1,112 @@
+{
+  "creativetab.bountiful_critters_tab": "풍부한 생물",
+
+  "item.bountiful_critters.stingray_bucket": "가오리가 담긴 양동이",
+  "item.bountiful_critters.sunfish_bucket": "개복치가 담긴 양동이",
+  "item.bountiful_critters.krill_bucket": "크릴이 담긴 양동이",
+  "item.bountiful_critters.marine_iguana_bucket": "바다 이구아나가 담긴 양동이",
+  "item.bountiful_critters.raw_sunfish_meat": "익히지 않은 개복치 고기",
+  "item.bountiful_critters.cooked_sunfish_meat": "익힌 개복치 고기",
+  "item.bountiful_critters.sunfish_sushi": "개복치 스시",
+  "item.bountiful_critters.raw_krill": "익히지 않은 크릴",
+  "item.bountiful_critters.fried_krill": "익힌 크릴",
+  "item.bountiful_critters.krill_cocktail": "크릴 칵테일",
+  "item.bountiful_critters.emu_egg": "에뮤 알",
+  "item.bountiful_critters.boiled_emu_egg": "익힌 에뮤 알",
+  "item.bountiful_critters.longhorn_horn": "Longhorn Horn",
+  "item.bountiful_critters.longhorn_didgeridoo": "Longhorn Didgeridoo",
+  "item.bountiful_critters.salt": "소금",
+  "item.bountiful_critters.salted_kelp": "소금친 켈프",
+  "item.bountiful_critters.seagrass_ball": "Seagrass Ball",
+  "item.bountiful_critters.raw_pillbug": "Raw Pill Bug",
+  "item.bountiful_critters.roasted_pillbug": "Roasted Pill Bug",
+  "item.bountiful_critters.poisonous_pillbug": "Poisonous Pill Bug",
+  "item.bountiful_critters.potted_pillbug": "Potted Pill Bug",
+  "item.bountiful_critters.pillbug_throwable": "Pill Bug",
+
+
+  "block.bountiful_critters.roasted_pillbug_block": "Roasted Pill Bug",
+  "block.bountiful_critters.salt_lamp": "소금 램프",
+  "block.bountiful_critters.seagrass_ball_block": "Block Of Seagrass Ball",
+  "block.bountiful_critters.seagrass_ball_placed": "Seagrass Ball",
+
+  "item.bountiful_critters.emu_spawn_egg" : "Emu Spawn Egg",
+  "item.bountiful_critters.stingray_spawn_egg" : "Stingray Spawn Egg",
+  "item.bountiful_critters.sunfish_spawn_egg" : "Sunfish Spawn Egg",
+  "item.bountiful_critters.krill_spawn_egg" : "Krill Spawn Egg",
+  "item.bountiful_critters.marine_iguana_spawn_egg" : "Marine Iguana Spawn Egg",
+  "item.bountiful_critters.longhorn_spawn_egg" : "Longhorn Cow Spawn Egg",
+  "item.bountiful_critters.toucan_spawn_egg" : "Toucan Spawn Egg",
+  "item.bountiful_critters.humpback_whale_spawn_egg" : "Humpback Whale Spawn Egg",
+  "item.bountiful_critters.pillbug_spawn_egg" : "Pill Bug Spawn Egg",
+
+  "entity.bountiful_critters.stingray.variant_gray": "Gray",
+  "entity.bountiful_critters.stingray.variant_muddy": "Muddy",
+  "entity.bountiful_critters.stingray.variant_blue_spotted": "Blue Spotted",
+
+  "entity.bountiful_critters.sunfish.variant_chilly": "Chilly",
+  "entity.bountiful_critters.sunfish.variant_brown": "Brown",
+
+  "entity.bountiful_critters.marine_iguana.variant_stony": "Stony",
+  "entity.bountiful_critters.marine_iguana.variant_neon": "Neon",
+  "entity.bountiful_critters.marine_iguana.variant_warm": "Warm",
+  "entity.bountiful_critters.marine_iguana.variant_red": "Red",
+  "entity.bountiful_critters.marine_iguana.variant_ash": "Ash",
+
+  "entity.bountiful_critters.stingray" : "가오리",
+  "entity.bountiful_critters.sunfish" : "개복치",
+  "entity.bountiful_critters.emu" : "에뮤",
+  "entity.bountiful_critters.krill" : "크릴",
+  "entity.bountiful_critters.marine_iguana" : "바다 이구아나",
+  "entity.bountiful_critters.longhorn" : "Longhorn Cow",
+  "entity.bountiful_critters.toucan" : "Toucan",
+  "entity.bountiful_critters.humpback_whale" : "혹등고래",
+  "entity.bountiful_critters.pillbug" : "Pill Bug",
+  "entity.bountiful_critters.pillbug_projectile" : "Pill Bug",
+  "entity.bountiful_critters.emu_egg_projectile" : "에뮤 알",
+
+  "advancements.husbandry.collect_stingray.title" : "Is That A Swimming Pancake?",
+  "advancements.husbandry.collect_stingray.description" : "Collect a Stingray",
+
+  "advancements.husbandry.collect_sunfish.title" : "I Would Bring You The Sun",
+  "advancements.husbandry.collect_sunfish.description" : "Collect a Sunfish",
+
+  "advancements.husbandry.collect_boiled_emu_egg.title" : "This Could've Been A Baby Emu!",
+  "advancements.husbandry.collect_boiled_emu_egg.description" : "Cook a Emu Egg into a Boiled Emu Egg",
+
+  "advancements.husbandry.collect_pillbug.title" : "Unusual Catch",
+  "advancements.husbandry.collect_pillbug.description" : "Collect a Pill Bug",
+
+  "advancements.husbandry.eating_poisonous_pillbug.title" : "Tough Pill To Swallow",
+  "advancements.husbandry.eating_poisonous_pillbug.description" : "Consume a Poisonous Pill Bug",
+
+  "advancements.husbandry.collect_longhorn_horn.title" : "Could Be A Great Didgeridoo",
+  "advancements.husbandry.collect_longhorn_horn.description" : "Collect a Longhorn Horn",
+
+  "advancements.husbandry.collect_krill_cocktail.title" : "Shrimple As That",
+  "advancements.husbandry.collect_krill_cocktail.description" : "Craft a Krill Cocktail",
+
+  "advancements.husbandry.collect_seagrass_ball.title" : "Sticky Substance",
+  "advancements.husbandry.collect_seagrass_ball.description" : "Get a Seagrass Ball",
+
+  "sounds.bountiful_critters:emu_ambient": "에뮤가 으르렁 거림",
+  "sounds.bountiful_critters:emu_hurt": "에뮤가 피해를 입음",
+  "sounds.bountiful_critters:emu_death": "에뮤 죽음",
+
+  "sounds.bountiful_critters:toucan_ambient": "Toucan Chirps",
+  "sounds.bountiful_critters:toucan_hurt": "Toucan Hurts",
+  "sounds.bountiful_critters:toucan_death": "Toucan Dies",
+
+  "sounds.bountiful_critters:pillbug_ambient": "Pill Bug Hisses",
+  "sounds.bountiful_critters:pillbug_hurt": "Pill Bug Hurts",
+  "sounds.bountiful_critters:pillbug_step": "발소리",
+  "sounds.bountiful_critters:pillbug_death": "Pill Bug Dies",
+  "sounds.bountiful_critters:pillbug_bounce": "Pill Bug Bounces",
+
+  "sounds.bountiful_critters:longhorn_didgeridoo": "Blows Didgeridoo",
+
+  "item.bountiful_critters.returning_memory_music_disc": "Music Disc",
+  "item.bountiful_critters.returning_memory_music_disc.desc": "Dylanvhs - Returning Memory",
+
+  "death.attack.pillball_0.entity": "%s got dunked on by a pillbug"
+}

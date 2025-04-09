@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "taxov:zombie_marine_ship",
+      "weight": 70
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 320,
+    "separation": 300,
+    "salt": 1303345895
+  }
+}

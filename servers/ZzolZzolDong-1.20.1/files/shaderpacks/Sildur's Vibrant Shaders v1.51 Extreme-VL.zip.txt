@@ -1,0 +1,10 @@
+#Sat Jan 04 08:07:58 UTC 2025
+iceRefl=false
+Dof_Distance_View=128
+metallicRefl=false
+customStars=false
+shadowMapResolution=2048
+Refraction=false
+uFogDensity=40.0
+Lens_Flares_Strength=1.0
+RainReflections=false

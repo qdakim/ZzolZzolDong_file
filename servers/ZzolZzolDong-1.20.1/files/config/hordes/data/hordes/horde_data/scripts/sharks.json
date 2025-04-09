@@ -1,0 +1,31 @@
+{
+        "function": "hordes:multiple",
+        "value": [
+            {
+                "function": "hordes:set_spawntable",
+                "value": ["hordes:sharks"],
+                "conditions": []
+            },
+            {
+                "function": "hordes:set_spawn_type",
+                "value": "prefer_water",
+                "conditions": []
+            },
+            {
+                "function": "hordes:set_spawn_duration",
+                "value": 60000,
+                "conditions": []
+            },
+            {
+                "function": "hordes:set_spawn_amount",
+                "value": 1,
+                "conditions": []
+            }
+        ],
+        "conditions": [
+            {
+                "name": "hordes:day",
+                "value": 0
+            }
+        ]
+}
