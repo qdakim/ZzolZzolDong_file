@@ -10,7 +10,7 @@
     {
       "id": "ZzolZzolDong-1.20.1",
       "name": "동아리",
-      "description": "Minecraft 1.20.1 (Forge v47.4.0)",
+      "description": "Minecraft 1.20.1 (Forge v47.3.10)",
       "icon": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "www.zzoldong.p-e.kr",
@@ -24,83 +24,83 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.10",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
             "size": 7399,
-            "MD5": "a839d5603a05491f84f6c36284ab0ea8",
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+            "MD5": "fbb91ae57ddd18723399ccb684f65706",
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.10/lowcodelanguage-1.20.1-47.3.10.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.0",
+              "id": "1.20.1-47.3.10",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16612,
-                "MD5": "029daa8b97e10cedd4d6726a563379ab",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
+                "size": 16554,
+                "MD5": "135c3a04e61e9451fb7c7fb6431b2549",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/versions/1.20.1-forge-47.3.10/1.20.1-forge-47.3.10.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.0",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.10",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118914,
-                "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
+                "size": 118579,
+                "MD5": "95f5cc2de1237cd350176abaa1e37085",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.10/fmlcore-1.20.1-47.3.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.0",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.10",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 16855,
-                "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+                "MD5": "2457f76791a32ba9cb9377c6216544da",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.10/javafmllanguage-1.20.1-47.3.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.0",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.10",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4998,
-                "MD5": "cd3d6af64b394583aa83090915469f9e",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
+                "size": 5000,
+                "MD5": "d298b20a445637b4655308a0fd0c1c4c",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.10/mclanguage-1.20.1-47.3.10.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.0:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2776081,
-                "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
+                "size": 2753586,
+                "MD5": "b6081b6ddf8a6d43df4c38b1f3decf18",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.10:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4826828,
-                "MD5": "1940b09c4b066287963bde17aa375cec",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
+                "size": 4793821,
+                "MD5": "8e4fb7202d94e3336ea097a8621e8733",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.10/forge-1.20.1-47.3.10-client.jar"
               },
               "subModules": []
             },
@@ -151,53 +151,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
+              "id": "org.ow2.asm:asm:9.7",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "id": "org.ow2.asm:asm-commons:9.7",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "id": "org.ow2.asm:asm-tree:9.7",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
+              "id": "org.ow2.asm:asm-util:9.7",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "id": "org.ow2.asm:asm-analysis:9.7",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
@@ -241,13 +241,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.2.4",
+              "id": "net.minecraftforge:coremods:5.1.6",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 31872,
-                "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
               }
             },
             {
@@ -361,13 +361,13 @@
               }
             },
             {
-              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
               "name": "Minecraft Forge (nashorn-core)",
               "type": "Library",
               "artifact": {
-                "size": 2167292,
-                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -411,23 +411,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.0",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.10",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 267079,
-                "MD5": "5b26aba9f44796d54094022c1e73a49e",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+                "size": 264940,
+                "MD5": "54ad40b5ca0be11735c3e5a4d4577542",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.10/fmlloader-1.20.1-47.3.10.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.0",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.10",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170517,
-                "MD5": "68747d96f635b0a0dc9e070d3596a562",
-                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
+                "size": 170426,
+                "MD5": "c89b408828adc032f8fa75660c9012b1",
+                "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.10/fmlearlydisplay-1.20.1-47.3.10.jar"
               }
             }
           ]
