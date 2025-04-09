@@ -573,16 +573,6 @@
           }
         },
         {
-          "id": "atistructures:ati_structures:1.1.0@jar",
-          "name": "Ati_structures",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1871997,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/ati_structures(1.20)_v1.1.0_FORGE.jar",
-            "MD5": "6ce3d25a7fbbc8af6714b6a5a9727e91"
-          }
-        },
-        {
           "id": "net.smileycorp.atlas:atlaslib:1.1.12@jar",
           "name": "Atlas Lib",
           "type": "ForgeMod",
