@@ -723,16 +723,6 @@
           }
         },
         {
-          "id": "moe.caramel.chat:caramelchat:1.0.0-beta.3@jar",
-          "name": "CaramelChat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123247,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.0.0-beta.3.jar",
-            "MD5": "2bb7dc02ff14480dbbee94ad7332f3ed"
-          }
-        },
-        {
           "id": "com.github.alexthe666:citadel:2.6.1@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -1134,6 +1124,19 @@
             "size": 1343395,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/jei-1.20.1-forge-15.12.2.51.jar",
             "MD5": "4500381fa9b095a7d41929fc443c31c1"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.6.13+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199753,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.13+mc1.20.1.jar",
+            "MD5": "25d09b12e7dbfcdb70d8c6f87d2ee0c1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
