@@ -758,8 +758,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/optionaloff/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
