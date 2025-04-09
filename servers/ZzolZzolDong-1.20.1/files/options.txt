@@ -1,0 +1,9 @@
+version:3465
+autoJump:false
+enableVsync:false
+realmsNotifications:false
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false
