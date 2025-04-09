@@ -2,6 +2,8 @@ version:3465
 autoJump:false
 enableVsync:false
 realmsNotifications:false
+resourcePacks:["vanilla","mod_resources","Moonlight Mods Dynamic Assets","hordes-config","file/BetterHangulFont.zip","file/Flintl0cks - Cail\u0027s Edit.zip","file/FreshAnimations_v1.9.2.zip","file/Grimdark-Pirate-vip1-4-15.zip","file/Quark Programmer Art.zip","file/ewewukek\u0027s ЗD WildWest.zip"]
+incompatibleResourcePacks:["hordes-config","file/Quark Programmer Art.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
