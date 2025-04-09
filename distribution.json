@@ -1603,16 +1603,6 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 6638739,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "168e66ac2725997c713226122756017c"
-          }
-        },
-        {
           "id": "aiimprovements-common.toml",
           "name": "aiimprovements-common.toml",
           "type": "File",
