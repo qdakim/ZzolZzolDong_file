@@ -748,12 +748,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/optionaloff/cloth-config-11.1.136-forge.jar",
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -1132,11 +1128,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 199753,
-            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/optionalon/koreanpatch-forge-1.6.13+mc1.20.1.jar",
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/koreanpatch-forge-1.6.13+mc1.20.1.jar",
             "MD5": "25d09b12e7dbfcdb70d8c6f87d2ee0c1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
