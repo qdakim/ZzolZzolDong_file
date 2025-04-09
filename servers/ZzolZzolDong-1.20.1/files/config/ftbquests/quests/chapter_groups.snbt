@@ -1,0 +1,6 @@
+{
+	chapter_groups: [
+		{ id: "6071FAC023A1ABFE", title: "{chapter.group.name}" }
+		{ id: "065B6FF88E8808BD", title: "{chapter2.group.name}" }
+	]
+}

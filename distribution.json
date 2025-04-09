@@ -723,6 +723,16 @@
           }
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.0.0-beta.3@jar",
+          "name": "CaramelChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123247,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.0.0-beta.3.jar",
+            "MD5": "2bb7dc02ff14480dbbee94ad7332f3ed"
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:2.6.1@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -1607,13 +1617,3982 @@
           }
         },
         {
+          "id": "aiimprovements-common.toml",
+          "name": "aiimprovements-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6211,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/aiimprovements-common.toml",
+            "path": "config/aiimprovements-common.toml"
+          }
+        },
+        {
+          "id": "alexscaves-client.toml",
+          "name": "alexscaves-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1781,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves-client.toml",
+            "path": "config/alexscaves-client.toml"
+          }
+        },
+        {
+          "id": "alexscaves-general.toml",
+          "name": "alexscaves-general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5419,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves-general.toml",
+            "path": "config/alexscaves-general.toml"
+          }
+        },
+        {
+          "id": "abyssal_chasm.json",
+          "name": "abyssal_chasm.json",
+          "type": "File",
+          "artifact": {
+            "size": 272,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves_biome_generation/abyssal_chasm.json",
+            "path": "config/alexscaves_biome_generation/abyssal_chasm.json"
+          }
+        },
+        {
+          "id": "forlorn_hollows.json",
+          "name": "forlorn_hollows.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves_biome_generation/forlorn_hollows.json",
+            "path": "config/alexscaves_biome_generation/forlorn_hollows.json"
+          }
+        },
+        {
+          "id": "magnetic_caves.json",
+          "name": "magnetic_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves_biome_generation/magnetic_caves.json",
+            "path": "config/alexscaves_biome_generation/magnetic_caves.json"
+          }
+        },
+        {
+          "id": "primordial_caves.json",
+          "name": "primordial_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves_biome_generation/primordial_caves.json",
+            "path": "config/alexscaves_biome_generation/primordial_caves.json"
+          }
+        },
+        {
+          "id": "toxic_caves.json",
+          "name": "toxic_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexscaves_biome_generation/toxic_caves.json",
+            "path": "config/alexscaves_biome_generation/toxic_caves.json"
+          }
+        },
+        {
+          "id": "alligator_snapping_turtle_spawns.json",
+          "name": "alligator_snapping_turtle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+            "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+          }
+        },
+        {
+          "id": "anaconda_spawns.json",
+          "name": "anaconda_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1036,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
+            "path": "config/alexsmobs/anaconda_spawns.json"
+          }
+        },
+        {
+          "id": "anteater_spawns.json",
+          "name": "anteater_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/anteater_spawns.json",
+            "path": "config/alexsmobs/anteater_spawns.json"
+          }
+        },
+        {
+          "id": "bald_eagle_spawns.json",
+          "name": "bald_eagle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2723,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
+            "path": "config/alexsmobs/bald_eagle_spawns.json"
+          }
+        },
+        {
+          "id": "banana_slug_spawns.json",
+          "name": "banana_slug_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1697,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
+            "path": "config/alexsmobs/banana_slug_spawns.json"
+          }
+        },
+        {
+          "id": "bison_spawns.json",
+          "name": "bison_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1761,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/bison_spawns.json",
+            "path": "config/alexsmobs/bison_spawns.json"
+          }
+        },
+        {
+          "id": "blobfish_spawns.json",
+          "name": "blobfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
+            "path": "config/alexsmobs/blobfish_spawns.json"
+          }
+        },
+        {
+          "id": "blue_jay_spawns.json",
+          "name": "blue_jay_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
+            "path": "config/alexsmobs/blue_jay_spawns.json"
+          }
+        },
+        {
+          "id": "bone_serpent_spawns.json",
+          "name": "bone_serpent_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
+            "path": "config/alexsmobs/bone_serpent_spawns.json"
+          }
+        },
+        {
+          "id": "bunfungus_spawns.json",
+          "name": "bunfungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
+            "path": "config/alexsmobs/bunfungus_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_beached_spawns.json",
+          "name": "cachalot_whale_beached_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 642,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+            "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_spawns.json",
+          "name": "cachalot_whale_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 893,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
+            "path": "config/alexsmobs/cachalot_whale_spawns.json"
+          }
+        },
+        {
+          "id": "caiman_spawns.json",
+          "name": "caiman_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/caiman_spawns.json",
+            "path": "config/alexsmobs/caiman_spawns.json"
+          }
+        },
+        {
+          "id": "capuchin_monkey_spawns.json",
+          "name": "capuchin_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1184,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+            "path": "config/alexsmobs/capuchin_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "catfish_spawns.json",
+          "name": "catfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1097,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/catfish_spawns.json",
+            "path": "config/alexsmobs/catfish_spawns.json"
+          }
+        },
+        {
+          "id": "cave_centipede_spawns.json",
+          "name": "cave_centipede_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
+            "path": "config/alexsmobs/cave_centipede_spawns.json"
+          }
+        },
+        {
+          "id": "cockroach_spawns.json",
+          "name": "cockroach_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
+            "path": "config/alexsmobs/cockroach_spawns.json"
+          }
+        },
+        {
+          "id": "comb_jelly_spawns.json",
+          "name": "comb_jelly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
+            "path": "config/alexsmobs/comb_jelly_spawns.json"
+          }
+        },
+        {
+          "id": "cosmaw_spawns.json",
+          "name": "cosmaw_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
+            "path": "config/alexsmobs/cosmaw_spawns.json"
+          }
+        },
+        {
+          "id": "cosmic_cod_spawns.json",
+          "name": "cosmic_cod_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
+            "path": "config/alexsmobs/cosmic_cod_spawns.json"
+          }
+        },
+        {
+          "id": "crimson_mosquito_spawns.json",
+          "name": "crimson_mosquito_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 785,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+            "path": "config/alexsmobs/crimson_mosquito_spawns.json"
+          }
+        },
+        {
+          "id": "crocodile_spawns.json",
+          "name": "crocodile_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1007,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
+            "path": "config/alexsmobs/crocodile_spawns.json"
+          }
+        },
+        {
+          "id": "crow_spawns.json",
+          "name": "crow_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 5146,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/crow_spawns.json",
+            "path": "config/alexsmobs/crow_spawns.json"
+          }
+        },
+        {
+          "id": "devils_hole_pupfish_spawns.json",
+          "name": "devils_hole_pupfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+            "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
+          }
+        },
+        {
+          "id": "dropbear_spawns.json",
+          "name": "dropbear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
+            "path": "config/alexsmobs/dropbear_spawns.json"
+          }
+        },
+        {
+          "id": "elephant_spawns.json",
+          "name": "elephant_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/elephant_spawns.json",
+            "path": "config/alexsmobs/elephant_spawns.json"
+          }
+        },
+        {
+          "id": "emu_spawns.json",
+          "name": "emu_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/emu_spawns.json",
+            "path": "config/alexsmobs/emu_spawns.json"
+          }
+        },
+        {
+          "id": "endergrade_spawns.json",
+          "name": "endergrade_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
+            "path": "config/alexsmobs/endergrade_spawns.json"
+          }
+        },
+        {
+          "id": "enderiophage_spawns.json",
+          "name": "enderiophage_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 603,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
+            "path": "config/alexsmobs/enderiophage_spawns.json"
+          }
+        },
+        {
+          "id": "farseer.json",
+          "name": "farseer.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/farseer.json",
+            "path": "config/alexsmobs/farseer.json"
+          }
+        },
+        {
+          "id": "flutter_spawns.json",
+          "name": "flutter_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/flutter_spawns.json",
+            "path": "config/alexsmobs/flutter_spawns.json"
+          }
+        },
+        {
+          "id": "flying_fish_spawns.json",
+          "name": "flying_fish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 716,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
+            "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/fly_spawns.json",
+            "path": "config/alexsmobs/fly_spawns.json"
+          }
+        },
+        {
+          "id": "frilled_shark_spawns.json",
+          "name": "frilled_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
+            "path": "config/alexsmobs/frilled_shark_spawns.json"
+          }
+        },
+        {
+          "id": "froststalker_spawns.json",
+          "name": "froststalker_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 934,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
+            "path": "config/alexsmobs/froststalker_spawns.json"
+          }
+        },
+        {
+          "id": "gazelle_spawns.json",
+          "name": "gazelle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
+            "path": "config/alexsmobs/gazelle_spawns.json"
+          }
+        },
+        {
+          "id": "gelada_monkey_spawns.json",
+          "name": "gelada_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1001,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
+            "path": "config/alexsmobs/gelada_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "giant_squid_spawns.json",
+          "name": "giant_squid_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
+            "path": "config/alexsmobs/giant_squid_spawns.json"
+          }
+        },
+        {
+          "id": "gorilla_spawns.json",
+          "name": "gorilla_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
+            "path": "config/alexsmobs/gorilla_spawns.json"
+          }
+        },
+        {
+          "id": "grizzly_bear_spawns.json",
+          "name": "grizzly_bear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
+            "path": "config/alexsmobs/grizzly_bear_spawns.json"
+          }
+        },
+        {
+          "id": "guster_spawns.json",
+          "name": "guster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1132,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/guster_spawns.json",
+            "path": "config/alexsmobs/guster_spawns.json"
+          }
+        },
+        {
+          "id": "hammerhead_shark_spawns.json",
+          "name": "hammerhead_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+            "path": "config/alexsmobs/hammerhead_shark_spawns.json"
+          }
+        },
+        {
+          "id": "hummingbird_spawns.json",
+          "name": "hummingbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3029,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
+            "path": "config/alexsmobs/hummingbird_spawns.json"
+          }
+        },
+        {
+          "id": "jerboa_spawns.json",
+          "name": "jerboa_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
+            "path": "config/alexsmobs/jerboa_spawns.json"
+          }
+        },
+        {
+          "id": "kangaroo_spawns.json",
+          "name": "kangaroo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
+            "path": "config/alexsmobs/kangaroo_spawns.json"
+          }
+        },
+        {
+          "id": "komodo_dragon_spawns.json",
+          "name": "komodo_dragon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 775,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
+            "path": "config/alexsmobs/komodo_dragon_spawns.json"
+          }
+        },
+        {
+          "id": "laviathan_spawns.json",
+          "name": "laviathan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
+            "path": "config/alexsmobs/laviathan_spawns.json"
+          }
+        },
+        {
+          "id": "leafcutter_anthill_spawns.json",
+          "name": "leafcutter_anthill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+            "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
+          }
+        },
+        {
+          "id": "lobster_spawns.json",
+          "name": "lobster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/lobster_spawns.json",
+            "path": "config/alexsmobs/lobster_spawns.json"
+          }
+        },
+        {
+          "id": "maned_wolf_spawns.json",
+          "name": "maned_wolf_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
+            "path": "config/alexsmobs/maned_wolf_spawns.json"
+          }
+        },
+        {
+          "id": "mantis_shrimp_spawns.json",
+          "name": "mantis_shrimp_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 385,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+            "path": "config/alexsmobs/mantis_shrimp_spawns.json"
+          }
+        },
+        {
+          "id": "mimicube_spawns.json",
+          "name": "mimicube_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
+            "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
+          }
+        },
+        {
+          "id": "moose_spawns.json",
+          "name": "moose_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2291,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/moose_spawns.json",
+            "path": "config/alexsmobs/moose_spawns.json"
+          }
+        },
+        {
+          "id": "mudskipper_spawns.json",
+          "name": "mudskipper_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
+            "path": "config/alexsmobs/mudskipper_spawns.json"
+          }
+        },
+        {
+          "id": "mungus_spawns.json",
+          "name": "mungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/mungus_spawns.json",
+            "path": "config/alexsmobs/mungus_spawns.json"
+          }
+        },
+        {
+          "id": "murmur.json",
+          "name": "murmur.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/murmur.json",
+            "path": "config/alexsmobs/murmur.json"
+          }
+        },
+        {
+          "id": "orca_spawns.json",
+          "name": "orca_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/orca_spawns.json",
+            "path": "config/alexsmobs/orca_spawns.json"
+          }
+        },
+        {
+          "id": "platypus_spawns.json",
+          "name": "platypus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/platypus_spawns.json",
+            "path": "config/alexsmobs/platypus_spawns.json"
+          }
+        },
+        {
+          "id": "potoo_spawns.json",
+          "name": "potoo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/potoo_spawns.json",
+            "path": "config/alexsmobs/potoo_spawns.json"
+          }
+        },
+        {
+          "id": "raccoon_spawns.json",
+          "name": "raccoon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3712,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
+            "path": "config/alexsmobs/raccoon_spawns.json"
+          }
+        },
+        {
+          "id": "rain_frog_spawns.json",
+          "name": "rain_frog_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
+            "path": "config/alexsmobs/rain_frog_spawns.json"
+          }
+        },
+        {
+          "id": "rattlesnake_spawns.json",
+          "name": "rattlesnake_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
+            "path": "config/alexsmobs/rattlesnake_spawns.json"
+          }
+        },
+        {
+          "id": "rhinoceros_spawns.json",
+          "name": "rhinoceros_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
+            "path": "config/alexsmobs/rhinoceros_spawns.json"
+          }
+        },
+        {
+          "id": "roadrunner_spawns.json",
+          "name": "roadrunner_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
+            "path": "config/alexsmobs/roadrunner_spawns.json"
+          }
+        },
+        {
+          "id": "rocky_roller_spawns.json",
+          "name": "rocky_roller_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
+            "path": "config/alexsmobs/rocky_roller_spawns.json"
+          }
+        },
+        {
+          "id": "seagull_spawns.json",
+          "name": "seagull_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1296,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/seagull_spawns.json",
+            "path": "config/alexsmobs/seagull_spawns.json"
+          }
+        },
+        {
+          "id": "seal_spawns.json",
+          "name": "seal_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 877,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/seal_spawns.json",
+            "path": "config/alexsmobs/seal_spawns.json"
+          }
+        },
+        {
+          "id": "shoebill_spawns.json",
+          "name": "shoebill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
+            "path": "config/alexsmobs/shoebill_spawns.json"
+          }
+        },
+        {
+          "id": "skelewag_spawns.json",
+          "name": "skelewag_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 374,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
+            "path": "config/alexsmobs/skelewag_spawns.json"
+          }
+        },
+        {
+          "id": "skreecher.json",
+          "name": "skreecher.json",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/skreecher.json",
+            "path": "config/alexsmobs/skreecher.json"
+          }
+        },
+        {
+          "id": "skunk_spawns.json",
+          "name": "skunk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2037,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/skunk_spawns.json",
+            "path": "config/alexsmobs/skunk_spawns.json"
+          }
+        },
+        {
+          "id": "snow_leopard_spawns.json",
+          "name": "snow_leopard_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1808,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
+            "path": "config/alexsmobs/snow_leopard_spawns.json"
+          }
+        },
+        {
+          "id": "soul_vulture_spawns.json",
+          "name": "soul_vulture_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
+            "path": "config/alexsmobs/soul_vulture_spawns.json"
+          }
+        },
+        {
+          "id": "spectre_spawns.json",
+          "name": "spectre_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/spectre_spawns.json",
+            "path": "config/alexsmobs/spectre_spawns.json"
+          }
+        },
+        {
+          "id": "straddler_spawns.json",
+          "name": "straddler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/straddler_spawns.json",
+            "path": "config/alexsmobs/straddler_spawns.json"
+          }
+        },
+        {
+          "id": "stradpole_spawns.json",
+          "name": "stradpole_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
+            "path": "config/alexsmobs/stradpole_spawns.json"
+          }
+        },
+        {
+          "id": "sugar_glider_spawns.json",
+          "name": "sugar_glider_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
+            "path": "config/alexsmobs/sugar_glider_spawns.json"
+          }
+        },
+        {
+          "id": "sunbird_spawns.json",
+          "name": "sunbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3925,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
+            "path": "config/alexsmobs/sunbird_spawns.json"
+          }
+        },
+        {
+          "id": "tarantula_hawk_spawns.json",
+          "name": "tarantula_hawk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+            "path": "config/alexsmobs/tarantula_hawk_spawns.json"
+          }
+        },
+        {
+          "id": "tasmanian_devil_spawns.json",
+          "name": "tasmanian_devil_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1908,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+            "path": "config/alexsmobs/tasmanian_devil_spawns.json"
+          }
+        },
+        {
+          "id": "terrapin_spawns.json",
+          "name": "terrapin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
+            "path": "config/alexsmobs/terrapin_spawns.json"
+          }
+        },
+        {
+          "id": "tiger_spawns.json",
+          "name": "tiger_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/tiger_spawns.json",
+            "path": "config/alexsmobs/tiger_spawns.json"
+          }
+        },
+        {
+          "id": "toucan_spawns.json",
+          "name": "toucan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/toucan_spawns.json",
+            "path": "config/alexsmobs/toucan_spawns.json"
+          }
+        },
+        {
+          "id": "triops_spawns.json",
+          "name": "triops_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/triops_spawns.json",
+            "path": "config/alexsmobs/triops_spawns.json"
+          }
+        },
+        {
+          "id": "tusklin_spawns.json",
+          "name": "tusklin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 882,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
+            "path": "config/alexsmobs/tusklin_spawns.json"
+          }
+        },
+        {
+          "id": "underminer.json",
+          "name": "underminer.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/underminer.json",
+            "path": "config/alexsmobs/underminer.json"
+          }
+        },
+        {
+          "id": "void_worm_spawns.json",
+          "name": "void_worm_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
+            "path": "config/alexsmobs/void_worm_spawns.json"
+          }
+        },
+        {
+          "id": "warped_mosco_spawns.json",
+          "name": "warped_mosco_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
+            "path": "config/alexsmobs/warped_mosco_spawns.json"
+          }
+        },
+        {
+          "id": "warped_toad_spawns.json",
+          "name": "warped_toad_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 661,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
+            "path": "config/alexsmobs/warped_toad_spawns.json"
+          }
+        },
+        {
+          "id": "alexsmobs.toml",
+          "name": "alexsmobs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 36192,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/alexsmobs.toml",
+            "path": "config/alexsmobs.toml"
+          }
+        },
+        {
+          "id": "amendments-client.toml",
+          "name": "amendments-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3256,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/amendments-client.toml",
+            "path": "config/amendments-client.toml"
+          }
+        },
+        {
+          "id": "amendments-common.toml",
+          "name": "amendments-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3924,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/amendments-common.toml",
+            "path": "config/amendments-common.toml"
+          }
+        },
+        {
+          "id": "apathy-boss.toml",
+          "name": "apathy-boss.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4598,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/apathy-boss.toml",
+            "path": "config/apathy-boss.toml"
+          }
+        },
+        {
+          "id": "apathy-general.toml",
+          "name": "apathy-general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2757,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/apathy-general.toml",
+            "path": "config/apathy-general.toml"
+          }
+        },
+        {
+          "id": "apathy-mobs.toml",
+          "name": "apathy-mobs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7416,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/apathy-mobs.toml",
+            "path": "config/apathy-mobs.toml"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1361,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/appleskin-client.toml",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "aquaculture-common.toml",
+          "name": "aquaculture-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 825,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/aquaculture-common.toml",
+            "path": "config/aquaculture-common.toml"
+          }
+        },
+        {
+          "id": "armordamagescale.json",
+          "name": "armordamagescale.json",
+          "type": "File",
+          "artifact": {
+            "size": 885,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/armordamagescale.json",
+            "path": "config/armordamagescale.json"
+          }
+        },
+        {
+          "id": "attributefix.json",
+          "name": "attributefix.json",
+          "type": "File",
+          "artifact": {
+            "size": 6042,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/attributefix.json",
+            "path": "config/attributefix.json"
+          }
+        },
+        {
+          "id": "awesomedungeonocean_1.properties",
+          "name": "awesomedungeonocean_1.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/awesomedungeonocean_1.properties",
+            "path": "config/awesomedungeonocean_1.properties"
+          }
+        },
+        {
+          "id": "badmobs-common.toml",
+          "name": "badmobs-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 205791,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/badmobs-common.toml",
+            "path": "config/badmobs-common.toml"
+          }
+        },
+        {
+          "id": "bettas_aquatics-common.toml",
+          "name": "bettas_aquatics-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2201,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/bettas_aquatics-common.toml",
+            "path": "config/bettas_aquatics-common.toml"
+          }
+        },
+        {
+          "id": "betteradvancements-client.toml",
+          "name": "betteradvancements-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 924,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/betteradvancements-client.toml",
+            "path": "config/betteradvancements-client.toml"
+          }
+        },
+        {
+          "id": "betterfpsdist.json",
+          "name": "betterfpsdist.json",
+          "type": "File",
+          "artifact": {
+            "size": 697,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/betterfpsdist.json",
+            "path": "config/betterfpsdist.json"
+          }
+        },
+        {
+          "id": "betteroceanmonuments-forge-1_20.toml",
+          "name": "betteroceanmonuments-forge-1_20.toml",
+          "type": "File",
+          "artifact": {
+            "size": 460,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/betteroceanmonuments-forge-1_20.toml",
+            "path": "config/betteroceanmonuments-forge-1_20.toml"
+          }
+        },
+        {
+          "id": "bettertags-client.toml",
+          "name": "bettertags-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 708,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/bettertags-client.toml",
+            "path": "config/bettertags-client.toml"
+          }
+        },
+        {
+          "id": "bettertridents-common.toml",
+          "name": "bettertridents-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/bettertridents-common.toml",
+            "path": "config/bettertridents-common.toml"
+          }
+        },
+        {
+          "id": "bettertridents-server.toml",
+          "name": "bettertridents-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 563,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/bettertridents-server.toml",
+            "path": "config/bettertridents-server.toml"
+          }
+        },
+        {
+          "id": "biomesize.json",
+          "name": "biomesize.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/biomesize.json",
+            "path": "config/biomesize.json"
+          }
+        },
+        {
+          "id": "spawnbiomes.txt",
+          "name": "spawnbiomes.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1976,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/biomespawnpoint/spawnbiomes.txt",
+            "path": "config/biomespawnpoint/spawnbiomes.txt"
+          }
+        },
+        {
+          "id": "biome_replacer.properties",
+          "name": "biome_replacer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 2004,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/biome_replacer.properties",
+            "path": "config/biome_replacer.properties"
+          }
+        },
+        {
+          "id": "blueprint-client.toml",
+          "name": "blueprint-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 770,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/blueprint-client.toml",
+            "path": "config/blueprint-client.toml"
+          }
+        },
+        {
+          "id": "blueprint-common.toml",
+          "name": "blueprint-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 614,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/blueprint-common.toml",
+            "path": "config/blueprint-common.toml"
+          }
+        },
+        {
+          "id": "canary.properties",
+          "name": "canary.properties",
+          "type": "File",
+          "artifact": {
+            "size": 422,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/canary.properties",
+            "path": "config/canary.properties"
+          }
+        },
+        {
+          "id": "amethyst_crab_spawns.json",
+          "name": "amethyst_crab_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/amethyst_crab_spawns.json",
+            "path": "config/cataclysm/amethyst_crab_spawns.json"
+          }
+        },
+        {
+          "id": "coral_golem_spawns.json",
+          "name": "coral_golem_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/coral_golem_spawns.json",
+            "path": "config/cataclysm/coral_golem_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_angler_spawns.json",
+          "name": "deepling_angler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/deepling_angler_spawns.json",
+            "path": "config/cataclysm/deepling_angler_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_brute_spawns.json",
+          "name": "deepling_brute_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/deepling_brute_spawns.json",
+            "path": "config/cataclysm/deepling_brute_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_priest_spawns.json",
+          "name": "deepling_priest_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/deepling_priest_spawns.json",
+            "path": "config/cataclysm/deepling_priest_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_spawns.json",
+          "name": "deepling_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/deepling_spawns.json",
+            "path": "config/cataclysm/deepling_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_warlock_spawns.json",
+          "name": "deepling_warlock_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 926,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/deepling_warlock_spawns.json",
+            "path": "config/cataclysm/deepling_warlock_spawns.json"
+          }
+        },
+        {
+          "id": "koboleton_spawns.json",
+          "name": "koboleton_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 474,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm/koboleton_spawns.json",
+            "path": "config/cataclysm/koboleton_spawns.json"
+          }
+        },
+        {
+          "id": "cataclysm.toml",
+          "name": "cataclysm.toml",
+          "type": "File",
+          "artifact": {
+            "size": 16531,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cataclysm.toml",
+            "path": "config/cataclysm.toml"
+          }
+        },
+        {
+          "id": "citadel-common.toml",
+          "name": "citadel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 648,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/citadel-common.toml",
+            "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "clearwater.jsonc",
+          "name": "clearwater.jsonc",
+          "type": "File",
+          "artifact": {
+            "size": 1690,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/clearwater.jsonc",
+            "path": "config/clearwater.jsonc"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 827,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/collective.json5",
+            "path": "config/collective.json5"
+          }
+        },
+        {
+          "id": "configured-client.toml",
+          "name": "configured-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/configured-client.toml",
+            "path": "config/configured-client.toml"
+          }
+        },
+        {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5024,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/create-client.toml",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/create-common.toml",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
+          "id": "cupboard.json",
+          "name": "cupboard.json",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/cupboard.json",
+            "path": "config/cupboard.json"
+          }
+        },
+        {
+          "id": "curios-client.toml",
+          "name": "curios-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 706,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/curios-client.toml",
+            "path": "config/curios-client.toml"
+          }
+        },
+        {
+          "id": "curios-common.toml",
+          "name": "curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/curios-common.toml",
+            "path": "config/curios-common.toml"
+          }
+        },
+        {
+          "id": "custom_worldgen-config-readme.md",
+          "name": "custom_worldgen-config-readme.md",
+          "type": "File",
+          "artifact": {
+            "size": 4670,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/custom_worldgen-config-readme.md",
+            "path": "config/custom_worldgen-config-readme.md"
+          }
+        },
+        {
+          "id": "custom_worldgen-config.json",
+          "name": "custom_worldgen-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1057,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/custom_worldgen-config.json",
+            "path": "config/custom_worldgen-config.json"
+          }
+        },
+        {
+          "id": "deepblue-common.toml",
+          "name": "deepblue-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 914,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/deepblue-common.toml",
+            "path": "config/deepblue-common.toml"
+          }
+        },
+        {
+          "id": "defaultsettings.json",
+          "name": "defaultsettings.json",
+          "type": "File",
+          "artifact": {
+            "size": 261,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/defaultsettings.json",
+            "path": "config/defaultsettings.json"
+          }
+        },
+        {
+          "id": "client-config.toml",
+          "name": "client-config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 335,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/defaultworldtype/client-config.toml",
+            "path": "config/defaultworldtype/client-config.toml"
+          }
+        },
+        {
+          "id": "world-presets.txt",
+          "name": "world-presets.txt",
+          "type": "File",
+          "artifact": {
+            "size": 194,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/defaultworldtype/world-presets.txt",
+            "path": "config/defaultworldtype/world-presets.txt"
+          }
+        },
+        {
+          "id": "disablestructures-common.toml",
+          "name": "disablestructures-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 251,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/disablestructures-common.toml",
+            "path": "config/disablestructures-common.toml"
+          }
+        },
+        {
+          "id": "dungeons_enhanced-common.toml",
+          "name": "dungeons_enhanced-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 12634,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/dungeons_enhanced-common.toml",
+            "path": "config/dungeons_enhanced-common.toml"
+          }
+        },
+        {
+          "id": "dungeons_plus-common.toml",
+          "name": "dungeons_plus-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1474,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/dungeons_plus-common.toml",
+            "path": "config/dungeons_plus-common.toml"
+          }
+        },
+        {
+          "id": "dynamiclights.cfg",
+          "name": "dynamiclights.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 65,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/dynamiclights.cfg",
+            "path": "config/dynamiclights.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_droppeditems.cfg",
+          "name": "dynamiclights_droppeditems.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/dynamiclights_droppeditems.cfg",
+            "path": "config/dynamiclights_droppeditems.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_selflight.cfg",
+          "name": "dynamiclights_selflight.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/dynamiclights_selflight.cfg",
+            "path": "config/dynamiclights_selflight.cfg"
+          }
+        },
+        {
+          "id": "ecologics-common.toml",
+          "name": "ecologics-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 519,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ecologics-common.toml",
+            "path": "config/ecologics-common.toml"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/embeddium-fingerprint.json",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/embeddium-mixins.properties",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 850,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/embeddium-options.json",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "enchdesc.json",
+          "name": "enchdesc.json",
+          "type": "File",
+          "artifact": {
+            "size": 189,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/enchdesc.json",
+            "path": "config/enchdesc.json"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 929,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/entityculling.json",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/farmersdelight-client.toml",
+            "path": "config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4425,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/farmersdelight-common.toml",
+            "path": "config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "farsight.json",
+          "name": "farsight.json",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/farsight.json",
+            "path": "config/farsight.json"
+          }
+        },
+        {
+          "id": "ferritecore-mixin.toml",
+          "name": "ferritecore-mixin.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1516,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ferritecore-mixin.toml",
+            "path": "config/ferritecore-mixin.toml"
+          }
+        },
+        {
+          "id": "finsandtails-common.toml",
+          "name": "finsandtails-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2814,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/finsandtails-common.toml",
+            "path": "config/finsandtails-common.toml"
+          }
+        },
+        {
+          "id": "fishofthieves.json",
+          "name": "fishofthieves.json",
+          "type": "File",
+          "artifact": {
+            "size": 1089,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/fishofthieves.json",
+            "path": "config/fishofthieves.json"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 274,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/flywheel-client.toml",
+            "path": "config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/fml.toml",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/forge-client.toml",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "chapter3maintitle.snbt",
+          "name": "chapter3maintitle.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 9722,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/chapters/chapter3maintitle.snbt",
+            "path": "config/ftbquests/quests/chapters/chapter3maintitle.snbt"
+          }
+        },
+        {
+          "id": "chaptertutorialtitle.snbt",
+          "name": "chaptertutorialtitle.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 2463,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/chapters/chaptertutorialtitle.snbt",
+            "path": "config/ftbquests/quests/chapters/chaptertutorialtitle.snbt"
+          }
+        },
+        {
+          "id": "chaptertutorialtitle_2.snbt",
+          "name": "chaptertutorialtitle_2.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 22785,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/chapters/chaptertutorialtitle_2.snbt",
+            "path": "config/ftbquests/quests/chapters/chaptertutorialtitle_2.snbt"
+          }
+        },
+        {
+          "id": "chapter_groups.snbt",
+          "name": "chapter_groups.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/chapter_groups.snbt",
+            "path": "config/ftbquests/quests/chapter_groups.snbt"
+          }
+        },
+        {
+          "id": "data.snbt",
+          "name": "data.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 447,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/data.snbt",
+            "path": "config/ftbquests/quests/data.snbt"
+          }
+        },
+        {
+          "id": "choice_ship_helm.snbt",
+          "name": "choice_ship_helm.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 443,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/ftbquests/quests/reward_tables/choice_ship_helm.snbt",
+            "path": "config/ftbquests/quests/reward_tables/choice_ship_helm.snbt"
+          }
+        },
+        {
+          "id": "grapplemod.toml",
+          "name": "grapplemod.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5251,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/grapplemod.toml",
+            "path": "config/grapplemod.toml"
+          }
+        },
+        {
+          "id": "harderspawners-common.toml",
+          "name": "harderspawners-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1837,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/harderspawners-common.toml",
+            "path": "config/harderspawners-common.toml"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 1565,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/lang/en_us.json",
+            "path": "config/hordes/assets/hordes/lang/en_us.json"
+          }
+        },
+        {
+          "id": "ru_ru.json",
+          "name": "ru_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 2049,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/lang/ru_ru.json",
+            "path": "config/hordes/assets/hordes/lang/ru_ru.json"
+          }
+        },
+        {
+          "id": "zh_cn.json",
+          "name": "zh_cn.json",
+          "type": "File",
+          "artifact": {
+            "size": 1560,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/lang/zh_cn.json",
+            "path": "config/hordes/assets/hordes/lang/zh_cn.json"
+          }
+        },
+        {
+          "id": "horde_spawn.ogg",
+          "name": "horde_spawn.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 54899,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/sounds/horde_spawn.ogg",
+            "path": "config/hordes/assets/hordes/sounds/horde_spawn.ogg"
+          }
+        },
+        {
+          "id": "sounds.json",
+          "name": "sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 567,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/sounds.json",
+            "path": "config/hordes/assets/hordes/sounds.json"
+          }
+        },
+        {
+          "id": "drowned_player_outer_layer.png",
+          "name": "drowned_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 4199,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/drowned_player_outer_layer.png",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/drowned_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "husk_player_outer_layer.png",
+          "name": "husk_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 396,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/husk_player_outer_layer.png",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/husk_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "zombie_player_outer_layer.png",
+          "name": "zombie_player_outer_layer.png",
+          "type": "File",
+          "artifact": {
+            "size": 6208,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/layer/zombie_player_outer_layer.png",
+            "path": "config/hordes/assets/hordes/textures/entity/layer/zombie_player_outer_layer.png"
+          }
+        },
+        {
+          "id": "zombie_evoker.png",
+          "name": "zombie_evoker.png",
+          "type": "File",
+          "artifact": {
+            "size": 1927,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_evoker.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_evoker.png"
+          }
+        },
+        {
+          "id": "zombie_illusioner.png",
+          "name": "zombie_illusioner.png",
+          "type": "File",
+          "artifact": {
+            "size": 2475,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_illusioner.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_illusioner.png"
+          }
+        },
+        {
+          "id": "zombie_pillager.png",
+          "name": "zombie_pillager.png",
+          "type": "File",
+          "artifact": {
+            "size": 2169,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_pillager.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_pillager.png"
+          }
+        },
+        {
+          "id": "zombie_vindicator.png",
+          "name": "zombie_vindicator.png",
+          "type": "File",
+          "artifact": {
+            "size": 2140,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_vindicator.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_vindicator.png"
+          }
+        },
+        {
+          "id": "zombie_wandering_trader.png",
+          "name": "zombie_wandering_trader.png",
+          "type": "File",
+          "artifact": {
+            "size": 2378,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_wandering_trader.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_wandering_trader.png"
+          }
+        },
+        {
+          "id": "zombie_witch.png",
+          "name": "zombie_witch.png",
+          "type": "File",
+          "artifact": {
+            "size": 2422,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombie_witch.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombie_witch.png"
+          }
+        },
+        {
+          "id": "zombified_piglin_brute.png",
+          "name": "zombified_piglin_brute.png",
+          "type": "File",
+          "artifact": {
+            "size": 3707,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/entity/zombified_piglin_brute.png",
+            "path": "config/hordes/assets/hordes/textures/entity/zombified_piglin_brute.png"
+          }
+        },
+        {
+          "id": "cure_list.png",
+          "name": "cure_list.png",
+          "type": "File",
+          "artifact": {
+            "size": 913,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/gui/jei/cure_list.png",
+            "path": "config/hordes/assets/hordes/textures/gui/jei/cure_list.png"
+          }
+        },
+        {
+          "id": "immunity.png",
+          "name": "immunity.png",
+          "type": "File",
+          "artifact": {
+            "size": 397,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/immunity.png",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/immunity.png"
+          }
+        },
+        {
+          "id": "infected.png",
+          "name": "infected.png",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/infected.png",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/infected.png"
+          }
+        },
+        {
+          "id": "infected.png.mcmeta",
+          "name": "infected.png.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/assets/hordes/textures/mob_effect/infected.png.mcmeta",
+            "path": "config/hordes/assets/hordes/textures/mob_effect/infected.png.mcmeta"
+          }
+        },
+        {
+          "id": "sharks.json",
+          "name": "sharks.json",
+          "type": "File",
+          "artifact": {
+            "size": 841,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/data/hordes/horde_data/scripts/sharks.json",
+            "path": "config/hordes/data/hordes/horde_data/scripts/sharks.json"
+          }
+        },
+        {
+          "id": "sharks.json",
+          "name": "sharks.json",
+          "type": "File",
+          "artifact": {
+            "size": 71,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/data/hordes/horde_data/tables/sharks.json",
+            "path": "config/hordes/data/hordes/horde_data/tables/sharks.json"
+          }
+        },
+        {
+          "id": "infection_entities.json",
+          "name": "infection_entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 306,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/data/hordes/tags/entity_types/infection_entities.json",
+            "path": "config/hordes/data/hordes/tags/entity_types/infection_entities.json"
+          }
+        },
+        {
+          "id": "infection_cures.json",
+          "name": "infection_cures.json",
+          "type": "File",
+          "artifact": {
+            "size": 116,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/data/hordes/tags/items/infection_cures.json",
+            "path": "config/hordes/data/hordes/tags/items/infection_cures.json"
+          }
+        },
+        {
+          "id": "husk_player_spawn_biomes.json",
+          "name": "husk_player_spawn_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json",
+            "path": "config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json"
+          }
+        },
+        {
+          "id": "hordes-info.json",
+          "name": "hordes-info.json",
+          "type": "File",
+          "artifact": {
+            "size": 494,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/hordes-info.json",
+            "path": "config/hordes/hordes-info.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes/pack.mcmeta",
+            "path": "config/hordes/pack.mcmeta"
+          }
+        },
+        {
+          "id": "hordes-client.toml",
+          "name": "hordes-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1471,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes-client.toml",
+            "path": "config/hordes-client.toml"
+          }
+        },
+        {
+          "id": "hordes-common.toml",
+          "name": "hordes-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5404,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/hordes-common.toml",
+            "path": "config/hordes-common.toml"
+          }
+        },
+        {
+          "id": "idas.toml",
+          "name": "idas.toml",
+          "type": "File",
+          "artifact": {
+            "size": 703,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/idas.toml",
+            "path": "config/idas.toml"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1060,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/immediatelyfast.json",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "areas.json",
+          "name": "areas.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/areas.json",
+            "path": "config/incontrol/areas.json"
+          }
+        },
+        {
+          "id": "breakevents.json",
+          "name": "breakevents.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/breakevents.json",
+            "path": "config/incontrol/breakevents.json"
+          }
+        },
+        {
+          "id": "effects.json",
+          "name": "effects.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/effects.json",
+            "path": "config/incontrol/effects.json"
+          }
+        },
+        {
+          "id": "events.json",
+          "name": "events.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/events.json",
+            "path": "config/incontrol/events.json"
+          }
+        },
+        {
+          "id": "experience.json",
+          "name": "experience.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/experience.json",
+            "path": "config/incontrol/experience.json"
+          }
+        },
+        {
+          "id": "leftclicks.json",
+          "name": "leftclicks.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/leftclicks.json",
+            "path": "config/incontrol/leftclicks.json"
+          }
+        },
+        {
+          "id": "loot.json",
+          "name": "loot.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/loot.json",
+            "path": "config/incontrol/loot.json"
+          }
+        },
+        {
+          "id": "phases.json",
+          "name": "phases.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/phases.json",
+            "path": "config/incontrol/phases.json"
+          }
+        },
+        {
+          "id": "placeevents.json",
+          "name": "placeevents.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/placeevents.json",
+            "path": "config/incontrol/placeevents.json"
+          }
+        },
+        {
+          "id": "rightclicks.json",
+          "name": "rightclicks.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/rightclicks.json",
+            "path": "config/incontrol/rightclicks.json"
+          }
+        },
+        {
+          "id": "spawn.json",
+          "name": "spawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/spawn.json",
+            "path": "config/incontrol/spawn.json"
+          }
+        },
+        {
+          "id": "spawner.json",
+          "name": "spawner.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/spawner.json",
+            "path": "config/incontrol/spawner.json"
+          }
+        },
+        {
+          "id": "summonaid.json",
+          "name": "summonaid.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/incontrol/summonaid.json",
+            "path": "config/incontrol/summonaid.json"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 191,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jade/hide-blocks.json",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 325,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jade/hide-entities.json",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 974,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jade/jade.json",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 1768,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jade/plugins.json",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jade/sort-order.json",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/blacklist.cfg",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 481,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 7325,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/jei-client.ini",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1337,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/jei-colors.ini",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 731,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/jei-debug.ini",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 434,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 56,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/New_World__179/bookmarks.ini",
+            "path": "config/jei/world/local/New_World__179/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 69,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/New_World__184/bookmarks.ini",
+            "path": "config/jei/world/local/New_World__184/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/New_World__8/bookmarks.ini",
+            "path": "config/jei/world/local/New_World__8/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 60,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/________185/bookmarks.ini",
+            "path": "config/jei/world/local/________185/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/________204/bookmarks.ini",
+            "path": "config/jei/world/local/________204/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/________6/bookmarks.ini",
+            "path": "config/jei/world/local/________6/bookmarks.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/jei/world/local/________89/bookmarks.ini",
+            "path": "config/jei/world/local/________89/bookmarks.ini"
+          }
+        },
+        {
+          "id": "libraryferret_1.properties",
+          "name": "libraryferret_1.properties",
+          "type": "File",
+          "artifact": {
+            "size": 193,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/libraryferret_1.properties",
+            "path": "config/libraryferret_1.properties"
+          }
+        },
+        {
+          "id": "loadingbackgrounds-config.json",
+          "name": "loadingbackgrounds-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 379,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/loadingbackgrounds-config.json",
+            "path": "config/loadingbackgrounds-config.json"
+          }
+        },
+        {
+          "id": "modelfix-client.toml",
+          "name": "modelfix-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1292,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/modelfix-client.toml",
+            "path": "config/modelfix-client.toml"
+          }
+        },
+        {
+          "id": "modernfix-common.toml",
+          "name": "modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/modernfix-common.toml",
+            "path": "config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5062,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/modernfix-mixins.properties",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "moonlight-client.toml",
+          "name": "moonlight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1018,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/moonlight-client.toml",
+            "path": "config/moonlight-client.toml"
+          }
+        },
+        {
+          "id": "moonlight-common.toml",
+          "name": "moonlight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/moonlight-common.toml",
+            "path": "config/moonlight-common.toml"
+          }
+        },
+        {
+          "id": "musketmod.txt",
+          "name": "musketmod.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2186,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/musketmod.txt",
+            "path": "config/musketmod.txt"
+          }
+        },
+        {
+          "id": "notenoughanimations.json",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "artifact": {
+            "size": 1500,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/notenoughanimations.json",
+            "path": "config/notenoughanimations.json"
+          }
+        },
+        {
+          "id": "aquamirae-client.toml",
+          "name": "aquamirae-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 200,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/aquamirae-client.toml",
+            "path": "config/Obscuria/aquamirae-client.toml"
+          }
+        },
+        {
+          "id": "aquamirae-common.toml",
+          "name": "aquamirae-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2170,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/aquamirae-common.toml",
+            "path": "config/Obscuria/aquamirae-common.toml"
+          }
+        },
+        {
+          "id": "aquamirae_cover.png",
+          "name": "aquamirae_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 137180,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/Data/aquamirae_cover.png",
+            "path": "config/Obscuria/Data/aquamirae_cover.png"
+          }
+        },
+        {
+          "id": "loot_journal_cover.png",
+          "name": "loot_journal_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 32741,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/Data/loot_journal_cover.png",
+            "path": "config/Obscuria/Data/loot_journal_cover.png"
+          }
+        },
+        {
+          "id": "obscure_api_cover.png",
+          "name": "obscure_api_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 64456,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/Data/obscure_api_cover.png",
+            "path": "config/Obscuria/Data/obscure_api_cover.png"
+          }
+        },
+        {
+          "id": "obscure-api-client.toml",
+          "name": "obscure-api-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 359,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Obscuria/obscure-api-client.toml",
+            "path": "config/Obscuria/obscure-api-client.toml"
+          }
+        },
+        {
+          "id": "oceanworld-common.toml",
+          "name": "oceanworld-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1960,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/oceanworld-common.toml",
+            "path": "config/oceanworld-common.toml"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "advanced_options.json",
+          "name": "advanced_options.json",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/advanced_options.json",
+            "path": "config/openloader/advanced_options.json"
+          }
+        },
+        {
+          "id": "antique_trading_ship.json",
+          "name": "antique_trading_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 248,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/antiquetradingship/worldgen/structure_set/antique_trading_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/antiquetradingship/worldgen/structure_set/antique_trading_ship.json"
+          }
+        },
+        {
+          "id": "brigantine.json",
+          "name": "brigantine.json",
+          "type": "File",
+          "artifact": {
+            "size": 279,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/brigantine.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/brigantine.json"
+          }
+        },
+        {
+          "id": "frigate_large.json",
+          "name": "frigate_large.json",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/frigate_large.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/frigate_large.json"
+          }
+        },
+        {
+          "id": "frigate_medium.json",
+          "name": "frigate_medium.json",
+          "type": "File",
+          "artifact": {
+            "size": 287,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/frigate_medium.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/frigate_medium.json"
+          }
+        },
+        {
+          "id": "ocean_cage.json",
+          "name": "ocean_cage.json",
+          "type": "File",
+          "artifact": {
+            "size": 280,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_cage.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_cage.json"
+          }
+        },
+        {
+          "id": "ocean_quad.json",
+          "name": "ocean_quad.json",
+          "type": "File",
+          "artifact": {
+            "size": 280,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_quad.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_quad.json"
+          }
+        },
+        {
+          "id": "ocean_ruin_pillager.json",
+          "name": "ocean_ruin_pillager.json",
+          "type": "File",
+          "artifact": {
+            "size": 298,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_ruin_pillager.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_ruin_pillager.json"
+          }
+        },
+        {
+          "id": "ocean_ruin_vanilla_temple.json",
+          "name": "ocean_ruin_vanilla_temple.json",
+          "type": "File",
+          "artifact": {
+            "size": 310,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_ruin_vanilla_temple.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_ruin_vanilla_temple.json"
+          }
+        },
+        {
+          "id": "ocean_temple_quad.json",
+          "name": "ocean_temple_quad.json",
+          "type": "File",
+          "artifact": {
+            "size": 294,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_temple_quad.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_temple_quad.json"
+          }
+        },
+        {
+          "id": "ocean_the_column_temple.json",
+          "name": "ocean_the_column_temple.json",
+          "type": "File",
+          "artifact": {
+            "size": 306,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_the_column_temple.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_the_column_temple.json"
+          }
+        },
+        {
+          "id": "ocean_warn_temple.json",
+          "name": "ocean_warn_temple.json",
+          "type": "File",
+          "artifact": {
+            "size": 294,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_warn_temple.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/awesomedungeonocean/worldgen/structure_set/ocean_warn_temple.json"
+          }
+        },
+        {
+          "id": "minor_structures.json",
+          "name": "minor_structures.json",
+          "type": "File",
+          "artifact": {
+            "size": 620,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_arise_seven_seas/worldgen/structure_set/minor_structures.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_arise_seven_seas/worldgen/structure_set/minor_structures.json"
+          }
+        },
+        {
+          "id": "elders_temple.json",
+          "name": "elders_temple.json",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_enhanced/worldgen/structure_set/elders_temple.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_enhanced/worldgen/structure_set/elders_temple.json"
+          }
+        },
+        {
+          "id": "fishing_ship.json",
+          "name": "fishing_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_enhanced/worldgen/structure_set/fishing_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_enhanced/worldgen/structure_set/fishing_ship.json"
+          }
+        },
+        {
+          "id": "pirate_ship.json",
+          "name": "pirate_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 341,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_enhanced/worldgen/structure_set/pirate_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_enhanced/worldgen/structure_set/pirate_ship.json"
+          }
+        },
+        {
+          "id": "sunken_shrine.json",
+          "name": "sunken_shrine.json",
+          "type": "File",
+          "artifact": {
+            "size": 343,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_enhanced/worldgen/structure_set/sunken_shrine.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_enhanced/worldgen/structure_set/sunken_shrine.json"
+          }
+        },
+        {
+          "id": "warped_garden.json",
+          "name": "warped_garden.json",
+          "type": "File",
+          "artifact": {
+            "size": 353,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/dungeons_plus/worldgen/structure_set/warped_garden.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/dungeons_plus/worldgen/structure_set/warped_garden.json"
+          }
+        },
+        {
+          "id": "warship.json",
+          "name": "warship.json",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/illagerwarship/worldgen/structure_set/warship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/illagerwarship/worldgen/structure_set/warship.json"
+          }
+        },
+        {
+          "id": "village_ocean.json",
+          "name": "village_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 228,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/joshie/worldgen/structure_set/village_ocean.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/joshie/worldgen/structure_set/village_ocean.json"
+          }
+        },
+        {
+          "id": "marine_ship.json",
+          "name": "marine_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 221,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/taxov/worldgen/structure_set/marine_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/taxov/worldgen/structure_set/marine_ship.json"
+          }
+        },
+        {
+          "id": "pirate_ship.json",
+          "name": "pirate_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 222,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/taxov/worldgen/structure_set/pirate_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/taxov/worldgen/structure_set/pirate_ship.json"
+          }
+        },
+        {
+          "id": "witch_ship.json",
+          "name": "witch_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 220,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/taxov/worldgen/structure_set/witch_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/taxov/worldgen/structure_set/witch_ship.json"
+          }
+        },
+        {
+          "id": "zombie_marine_ship.json",
+          "name": "zombie_marine_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 230,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/taxov/worldgen/structure_set/zombie_marine_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/taxov/worldgen/structure_set/zombie_marine_ship.json"
+          }
+        },
+        {
+          "id": "zombie_pirate_ship.json",
+          "name": "zombie_pirate_ship.json",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA/data/taxov/worldgen/structure_set/zombie_pirate_ship.json",
+            "path": "config/openloader/data/NANGMAN SEA/data/taxov/worldgen/structure_set/zombie_pirate_ship.json"
+          }
+        },
+        {
+          "id": "NANGMAN SEA.zip",
+          "name": "NANGMAN SEA.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14174,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/NANGMAN%20SEA.zip",
+            "path": "config/openloader/data/NANGMAN SEA.zip"
+          }
+        },
+        {
+          "id": "continents.json",
+          "name": "continents.json",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/continents.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/continents.json"
+          }
+        },
+        {
+          "id": "offset.json",
+          "name": "offset.json",
+          "type": "File",
+          "artifact": {
+            "size": 51860,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/offset.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/offset.json"
+          }
+        },
+        {
+          "id": "terrain.json",
+          "name": "terrain.json",
+          "type": "File",
+          "artifact": {
+            "size": 6419,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/terrain.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/overworld/terrain.json"
+          }
+        },
+        {
+          "id": "attempt_island_generation.json",
+          "name": "attempt_island_generation.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/attempt_island_generation.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/attempt_island_generation.json"
+          }
+        },
+        {
+          "id": "coastal_biomes.json",
+          "name": "coastal_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/coastal_biomes.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/coastal_biomes.json"
+          }
+        },
+        {
+          "id": "generate_islands.json",
+          "name": "generate_islands.json",
+          "type": "File",
+          "artifact": {
+            "size": 490,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/generate_islands.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/generate_islands.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 328,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/island_noise.json"
+          }
+        },
+        {
+          "id": "land_biomes.json",
+          "name": "land_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 305,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/land_biomes.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/land_biomes.json"
+          }
+        },
+        {
+          "id": "ocean_biomes.json",
+          "name": "ocean_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 563,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/ocean_biomes.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/ocean_biomes.json"
+          }
+        },
+        {
+          "id": "ocean_biomes_no_mushrooms.json",
+          "name": "ocean_biomes_no_mushrooms.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/ocean_biomes_no_mushrooms.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/density_function/util/ocean_biomes_no_mushrooms.json"
+          }
+        },
+        {
+          "id": "overworld.json",
+          "name": "overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 102738,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/noise_settings/overworld.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/noise_settings/overworld.json"
+          }
+        },
+        {
+          "id": "ancient_cities.json",
+          "name": "ancient_cities.json",
+          "type": "File",
+          "artifact": {
+            "size": 222,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/ancient_cities.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/ancient_cities.json"
+          }
+        },
+        {
+          "id": "buried_treasures.json",
+          "name": "buried_treasures.json",
+          "type": "File",
+          "artifact": {
+            "size": 347,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/buried_treasures.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/buried_treasures.json"
+          }
+        },
+        {
+          "id": "desert_pyramids.json",
+          "name": "desert_pyramids.json",
+          "type": "File",
+          "artifact": {
+            "size": 223,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/desert_pyramids.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/desert_pyramids.json"
+          }
+        },
+        {
+          "id": "igloos.json",
+          "name": "igloos.json",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/igloos.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/igloos.json"
+          }
+        },
+        {
+          "id": "jungle_temples.json",
+          "name": "jungle_temples.json",
+          "type": "File",
+          "artifact": {
+            "size": 223,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/jungle_temples.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/jungle_temples.json"
+          }
+        },
+        {
+          "id": "pillager_outposts.json",
+          "name": "pillager_outposts.json",
+          "type": "File",
+          "artifact": {
+            "size": 395,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/pillager_outposts.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/pillager_outposts.json"
+          }
+        },
+        {
+          "id": "swamp_huts.json",
+          "name": "swamp_huts.json",
+          "type": "File",
+          "artifact": {
+            "size": 218,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/swamp_huts.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/swamp_huts.json"
+          }
+        },
+        {
+          "id": "trail_ruins.json",
+          "name": "trail_ruins.json",
+          "type": "File",
+          "artifact": {
+            "size": 220,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/trail_ruins.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/trail_ruins.json"
+          }
+        },
+        {
+          "id": "villages.json",
+          "name": "villages.json",
+          "type": "File",
+          "artifact": {
+            "size": 535,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/villages.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/villages.json"
+          }
+        },
+        {
+          "id": "woodland_mansions.json",
+          "name": "woodland_mansions.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/woodland_mansions.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/data/minecraft/worldgen/structure_set/woodland_mansions.json"
+          }
+        },
+        {
+          "id": "cold_ocean.json",
+          "name": "cold_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4152,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/cold_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/cold_ocean.json"
+          }
+        },
+        {
+          "id": "deep_cold_ocean.json",
+          "name": "deep_cold_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4157,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/deep_cold_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/deep_cold_ocean.json"
+          }
+        },
+        {
+          "id": "deep_frozen_ocean.json",
+          "name": "deep_frozen_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4199,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/deep_frozen_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/deep_frozen_ocean.json"
+          }
+        },
+        {
+          "id": "deep_lukewarm_ocean.json",
+          "name": "deep_lukewarm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4406,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/deep_lukewarm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/deep_lukewarm_ocean.json"
+          }
+        },
+        {
+          "id": "deep_ocean.json",
+          "name": "deep_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4152,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/deep_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/deep_ocean.json"
+          }
+        },
+        {
+          "id": "frozen_ocean.json",
+          "name": "frozen_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4199,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/frozen_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/frozen_ocean.json"
+          }
+        },
+        {
+          "id": "lukewarm_ocean.json",
+          "name": "lukewarm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4368,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/lukewarm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/lukewarm_ocean.json"
+          }
+        },
+        {
+          "id": "ocean.json",
+          "name": "ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4154,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/ocean.json"
+          }
+        },
+        {
+          "id": "warm_ocean.json",
+          "name": "warm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4294,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20/biome/warm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20/biome/warm_ocean.json"
+          }
+        },
+        {
+          "id": "cold_ocean.json",
+          "name": "cold_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4190,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/cold_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/cold_ocean.json"
+          }
+        },
+        {
+          "id": "deep_cold_ocean.json",
+          "name": "deep_cold_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4195,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/deep_cold_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/deep_cold_ocean.json"
+          }
+        },
+        {
+          "id": "deep_frozen_ocean.json",
+          "name": "deep_frozen_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4237,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/deep_frozen_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/deep_frozen_ocean.json"
+          }
+        },
+        {
+          "id": "deep_lukewarm_ocean.json",
+          "name": "deep_lukewarm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4444,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/deep_lukewarm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/deep_lukewarm_ocean.json"
+          }
+        },
+        {
+          "id": "deep_ocean.json",
+          "name": "deep_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4190,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/deep_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/deep_ocean.json"
+          }
+        },
+        {
+          "id": "frozen_ocean.json",
+          "name": "frozen_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4237,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/frozen_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/frozen_ocean.json"
+          }
+        },
+        {
+          "id": "lukewarm_ocean.json",
+          "name": "lukewarm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4406,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/lukewarm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/lukewarm_ocean.json"
+          }
+        },
+        {
+          "id": "ocean.json",
+          "name": "ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4192,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/ocean.json"
+          }
+        },
+        {
+          "id": "warm_ocean.json",
+          "name": "warm_ocean.json",
+          "type": "File",
+          "artifact": {
+            "size": 4332,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Infested%20Waters/1.20.2+/biome/warm_ocean.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Infested Waters/1.20.2+/biome/warm_ocean.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Common%20Large%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Common Large Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 331,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Common%20Medium%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Common Medium Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Common%20Small%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Common Small Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Large%20Island%20Bonanza/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Large Island Bonanza/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Rare%20Large%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Rare Large Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Rare%20Medium%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Rare Medium Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 328,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Rare%20Tiny%20Islands/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Rare Tiny Islands/island_noise.json"
+          }
+        },
+        {
+          "id": "island_noise.json",
+          "name": "island_noise.json",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Island%20Sizes/Small%20Island%20Bonanza/island_noise.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Island Sizes/Small Island Bonanza/island_noise.json"
+          }
+        },
+        {
+          "id": "ocean_monuments.json",
+          "name": "ocean_monuments.json",
+          "type": "File",
+          "artifact": {
+            "size": 252,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Rarer%20Ocean%20Structures/ocean_monuments.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Rarer Ocean Structures/ocean_monuments.json"
+          }
+        },
+        {
+          "id": "ocean_ruins.json",
+          "name": "ocean_ruins.json",
+          "type": "File",
+          "artifact": {
+            "size": 304,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Rarer%20Ocean%20Structures/ocean_ruins.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Rarer Ocean Structures/ocean_ruins.json"
+          }
+        },
+        {
+          "id": "shipwrecks.json",
+          "name": "shipwrecks.json",
+          "type": "File",
+          "artifact": {
+            "size": 301,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/Extra%20Files/Rarer%20Ocean%20Structures/shipwrecks.json",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/Extra Files/Rarer Ocean Structures/shipwrecks.json"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 518,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/pack.mcmeta",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 294594,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2/pack.png",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2/pack.png"
+          }
+        },
+        {
+          "id": "Survival_Islands_v1.0.2.zip",
+          "name": "Survival_Islands_v1.0.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 334941,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/openloader/data/Survival_Islands_v1.0.2.zip",
+            "path": "config/openloader/data/Survival_Islands_v1.0.2.zip"
+          }
+        },
+        {
+          "id": "physics_animations_client_config.json",
+          "name": "physics_animations_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 2704,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_animations_client_config.json",
+            "path": "config/physicsmod/physics_animations_client_config.json"
+          }
+        },
+        {
+          "id": "physics_blocks_client_config.json",
+          "name": "physics_blocks_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 187768,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_blocks_client_config.json",
+            "path": "config/physicsmod/physics_blocks_client_config.json"
+          }
+        },
+        {
+          "id": "physics_client_config.json",
+          "name": "physics_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 3937,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_client_config.json",
+            "path": "config/physicsmod/physics_client_config.json"
+          }
+        },
+        {
+          "id": "physics_cloth_config.json",
+          "name": "physics_cloth_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_cloth_config.json",
+            "path": "config/physicsmod/physics_cloth_config.json"
+          }
+        },
+        {
+          "id": "physics_mobs_client_config.json",
+          "name": "physics_mobs_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 26,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_mobs_client_config.json",
+            "path": "config/physicsmod/physics_mobs_client_config.json"
+          }
+        },
+        {
+          "id": "physics_server_config.json",
+          "name": "physics_server_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_server_config.json",
+            "path": "config/physicsmod/physics_server_config.json"
+          }
+        },
+        {
+          "id": "physics_vines_client_config.json",
+          "name": "physics_vines_client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 14102,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/physicsmod/physics_vines_client_config.json",
+            "path": "config/physicsmod/physics_vines_client_config.json"
+          }
+        },
+        {
+          "id": "PillagersGun-common.toml",
+          "name": "PillagersGun-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1029,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/PillagersGun-common.toml",
+            "path": "config/PillagersGun-common.toml"
+          }
+        },
+        {
+          "id": "Pirates of the Craft.toml",
+          "name": "Pirates of the Craft.toml",
+          "type": "File",
+          "artifact": {
+            "size": 87,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/Pirates%20of%20the%20Craft.toml",
+            "path": "config/Pirates of the Craft.toml"
+          }
+        },
+        {
+          "id": "minecraft_overworld-level.toml",
+          "name": "minecraft_overworld-level.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1420,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/puresuffering/dimensions/minecraft_overworld-level.toml",
+            "path": "config/puresuffering/dimensions/minecraft_overworld-level.toml"
+          }
+        },
+        {
+          "id": "minecraft_the_end-level.toml",
+          "name": "minecraft_the_end-level.toml",
+          "type": "File",
+          "artifact": {
+            "size": 805,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/puresuffering/dimensions/minecraft_the_end-level.toml",
+            "path": "config/puresuffering/dimensions/minecraft_the_end-level.toml"
+          }
+        },
+        {
+          "id": "minecraft_the_nether-level.toml",
+          "name": "minecraft_the_nether-level.toml",
+          "type": "File",
+          "artifact": {
+            "size": 805,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/puresuffering/dimensions/minecraft_the_nether-level.toml",
+            "path": "config/puresuffering/dimensions/minecraft_the_nether-level.toml"
+          }
+        },
+        {
+          "id": "puresuffering-client.toml",
+          "name": "puresuffering-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1554,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/puresuffering/puresuffering-client.toml",
+            "path": "config/puresuffering/puresuffering-client.toml"
+          }
+        },
+        {
+          "id": "puresuffering-common.toml",
+          "name": "puresuffering-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4427,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/puresuffering/puresuffering-common.toml",
+            "path": "config/puresuffering/puresuffering-common.toml"
+          }
+        },
+        {
+          "id": "quark-common.toml",
+          "name": "quark-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 81946,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/quark-common.toml",
+            "path": "config/quark-common.toml"
+          }
+        },
+        {
+          "id": "replaymod-rendersettings.json",
+          "name": "replaymod-rendersettings.json",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/replaymod-rendersettings.json",
+            "path": "config/replaymod-rendersettings.json"
+          }
+        },
+        {
+          "id": "replaymod-screenshotsettings.json",
+          "name": "replaymod-screenshotsettings.json",
+          "type": "File",
+          "artifact": {
+            "size": 559,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/replaymod-screenshotsettings.json",
+            "path": "config/replaymod-screenshotsettings.json"
+          }
+        },
+        {
+          "id": "replaymod.json",
+          "name": "replaymod.json",
+          "type": "File",
+          "artifact": {
+            "size": 1810,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/replaymod.json",
+            "path": "config/replaymod.json"
+          }
+        },
+        {
+          "id": "resourceful-config-web.json",
+          "name": "resourceful-config-web.json",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/resourceful-config-web.json",
+            "path": "config/resourceful-config-web.json"
+          }
+        },
+        {
+          "id": "saturn-optimizations.toml",
+          "name": "saturn-optimizations.toml",
+          "type": "File",
+          "artifact": {
+            "size": 445,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/saturn-optimizations.toml",
+            "path": "config/saturn-optimizations.toml"
+          }
+        },
+        {
+          "id": "scuba_gear-common.toml",
+          "name": "scuba_gear-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 202,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/scuba_gear-common.toml",
+            "path": "config/scuba_gear-common.toml"
+          }
+        },
+        {
+          "id": "sidebar_buttons.json",
+          "name": "sidebar_buttons.json",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/sidebar_buttons.json",
+            "path": "config/sidebar_buttons.json"
+          }
+        },
+        {
+          "id": "simpledivegear-common.toml",
+          "name": "simpledivegear-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1341,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/simpledivegear-common.toml",
+            "path": "config/simpledivegear-common.toml"
+          }
+        },
+        {
+          "id": "smoothboot.json",
+          "name": "smoothboot.json",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/smoothboot.json",
+            "path": "config/smoothboot.json"
+          }
+        },
+        {
+          "id": "smoothchunk.json",
+          "name": "smoothchunk.json",
+          "type": "File",
+          "artifact": {
+            "size": 275,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/smoothchunk.json",
+            "path": "config/smoothchunk.json"
+          }
+        },
+        {
+          "id": "sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 658,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/sodiumdynamiclights-client.toml",
+            "path": "config/sodiumdynamiclights-client.toml"
+          }
+        },
+        {
+          "id": "sparsestructures.json5",
+          "name": "sparsestructures.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1970,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/sparsestructures.json5",
+            "path": "config/sparsestructures.json5"
+          }
+        },
+        {
+          "id": "AllMobEntities.rpt",
+          "name": "AllMobEntities.rpt",
+          "type": "File",
+          "artifact": {
+            "size": 663915,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility/AllMobEntities.rpt",
+            "path": "config/spawnbalanceutility/AllMobEntities.rpt"
+          }
+        },
+        {
+          "id": "BiomeMobWeight.rpt",
+          "name": "BiomeMobWeight.rpt",
+          "type": "File",
+          "artifact": {
+            "size": 199876,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility/BiomeMobWeight.rpt",
+            "path": "config/spawnbalanceutility/BiomeMobWeight.rpt"
+          }
+        },
+        {
+          "id": "MassAdditionMobs.rpt",
+          "name": "MassAdditionMobs.rpt",
+          "type": "File",
+          "artifact": {
+            "size": 910,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility/MassAdditionMobs.rpt",
+            "path": "config/spawnbalanceutility/MassAdditionMobs.rpt"
+          }
+        },
+        {
+          "id": "PsuedoMobs.rpt",
+          "name": "PsuedoMobs.rpt",
+          "type": "File",
+          "artifact": {
+            "size": 752,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility/PsuedoMobs.rpt",
+            "path": "config/spawnbalanceutility/PsuedoMobs.rpt"
+          }
+        },
+        {
+          "id": "StructMobWeight.rpt",
+          "name": "StructMobWeight.rpt",
+          "type": "File",
+          "artifact": {
+            "size": 24179,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility/StructMobWeight.rpt",
+            "path": "config/spawnbalanceutility/StructMobWeight.rpt"
+          }
+        },
+        {
+          "id": "spawnbalanceutility-common.toml",
+          "name": "spawnbalanceutility-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1121,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/spawnbalanceutility-common.toml",
+            "path": "config/spawnbalanceutility-common.toml"
+          }
+        },
+        {
+          "id": "raft.schem",
+          "name": "raft.schem",
+          "type": "File",
+          "artifact": {
+            "size": 559,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/starterstructure/schematics/raft.schem",
+            "path": "config/starterstructure/schematics/raft.schem"
+          }
+        },
+        {
+          "id": "starterstructure.json5",
+          "name": "starterstructure.json5",
+          "type": "File",
+          "artifact": {
+            "size": 3851,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/starterstructure.json5",
+            "path": "config/starterstructure.json5"
+          }
+        },
+        {
+          "id": "structureessentials.json",
+          "name": "structureessentials.json",
+          "type": "File",
+          "artifact": {
+            "size": 915,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/structureessentials.json",
+            "path": "config/structureessentials.json"
+          }
+        },
+        {
+          "id": "structure_gel-client.toml",
+          "name": "structure_gel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 271,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/structure_gel-client.toml",
+            "path": "config/structure_gel-client.toml"
+          }
+        },
+        {
+          "id": "structure_gel-common.toml",
+          "name": "structure_gel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 885,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/structure_gel-common.toml",
+            "path": "config/structure_gel-common.toml"
+          }
+        },
+        {
+          "id": "supplementaries-client.toml",
+          "name": "supplementaries-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9130,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/supplementaries-client.toml",
+            "path": "config/supplementaries-client.toml"
+          }
+        },
+        {
+          "id": "supplementaries-common.toml",
+          "name": "supplementaries-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 24135,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/supplementaries-common.toml",
+            "path": "config/supplementaries-common.toml"
+          }
+        },
+        {
+          "id": "survivalisland.json",
+          "name": "survivalisland.json",
+          "type": "File",
+          "artifact": {
+            "size": 253,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/survivalisland.json",
+            "path": "config/survivalisland.json"
+          }
+        },
+        {
+          "id": "terrablender.toml",
+          "name": "terrablender.toml",
+          "type": "File",
+          "artifact": {
+            "size": 552,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/terrablender.toml",
+            "path": "config/terrablender.toml"
+          }
+        },
+        {
+          "id": "TheShore.toml",
+          "name": "TheShore.toml",
+          "type": "File",
+          "artifact": {
+            "size": 497,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/TheShore.toml",
+            "path": "config/TheShore.toml"
+          }
+        },
+        {
+          "id": "tips.json",
+          "name": "tips.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/tips.json",
+            "path": "config/tips.json"
+          }
+        },
+        {
+          "id": "upgrade_aquatic-client.toml",
+          "name": "upgrade_aquatic-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 436,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/upgrade_aquatic-client.toml",
+            "path": "config/upgrade_aquatic-client.toml"
+          }
+        },
+        {
+          "id": "upgrade_aquatic-common.toml",
+          "name": "upgrade_aquatic-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1583,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/upgrade_aquatic-common.toml",
+            "path": "config/upgrade_aquatic-common.toml"
+          }
+        },
+        {
+          "id": "vs_client.schema.json",
+          "name": "vs_client.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 1297,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_client.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_client.schema.json"
+          }
+        },
+        {
+          "id": "vs_common.schema.json",
+          "name": "vs_common.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 606,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_common.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_common.schema.json"
+          }
+        },
+        {
+          "id": "vs_core_server.schema.json",
+          "name": "vs_core_server.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 3648,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_core_server.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_core_server.schema.json"
+          }
+        },
+        {
+          "id": "vs_eureka_client.schema.json",
+          "name": "vs_eureka_client.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 123,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_eureka_client.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_eureka_client.schema.json"
+          }
+        },
+        {
+          "id": "vs_eureka_server.schema.json",
+          "name": "vs_eureka_server.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 7791,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_eureka_server.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_eureka_server.schema.json"
+          }
+        },
+        {
+          "id": "vs_server.schema.json",
+          "name": "vs_server.schema.json",
+          "type": "File",
+          "artifact": {
+            "size": 2912,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/schemas/vs_server.schema.json",
+            "path": "config/valkyrienskies/schemas/vs_server.schema.json"
+          }
+        },
+        {
+          "id": "vs_client.json",
+          "name": "vs_client.json",
+          "type": "File",
+          "artifact": {
+            "size": 278,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_client.json",
+            "path": "config/valkyrienskies/vs_client.json"
+          }
+        },
+        {
+          "id": "vs_common.json",
+          "name": "vs_common.json",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_common.json",
+            "path": "config/valkyrienskies/vs_common.json"
+          }
+        },
+        {
+          "id": "vs_core_server.json",
+          "name": "vs_core_server.json",
+          "type": "File",
+          "artifact": {
+            "size": 592,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_core_server.json",
+            "path": "config/valkyrienskies/vs_core_server.json"
+          }
+        },
+        {
+          "id": "vs_eureka_client.json",
+          "name": "vs_eureka_client.json",
+          "type": "File",
+          "artifact": {
+            "size": 58,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_eureka_client.json",
+            "path": "config/valkyrienskies/vs_eureka_client.json"
+          }
+        },
+        {
+          "id": "vs_eureka_server.json",
+          "name": "vs_eureka_server.json",
+          "type": "File",
+          "artifact": {
+            "size": 3591,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_eureka_server.json",
+            "path": "config/valkyrienskies/vs_eureka_server.json"
+          }
+        },
+        {
+          "id": "vs_server.json",
+          "name": "vs_server.json",
+          "type": "File",
+          "artifact": {
+            "size": 516,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/valkyrienskies/vs_server.json",
+            "path": "config/valkyrienskies/vs_server.json"
+          }
+        },
+        {
+          "id": "yacl.json5",
+          "name": "yacl.json5",
+          "type": "File",
+          "artifact": {
+            "size": 35,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/yacl.json5",
+            "path": "config/yacl.json5"
+          }
+        },
+        {
+          "id": "zeta-common.toml",
+          "name": "zeta-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1912,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/zeta-common.toml",
+            "path": "config/zeta-common.toml"
+          }
+        },
+        {
+          "id": "zillagersweararmor-client.toml",
+          "name": "zillagersweararmor-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/zillagersweararmor-client.toml",
+            "path": "config/zillagersweararmor-client.toml"
+          }
+        },
+        {
+          "id": "zillagersweararmor-common.toml",
+          "name": "zillagersweararmor-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 917,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/config/zillagersweararmor-common.toml",
+            "path": "config/zillagersweararmor-common.toml"
+          }
+        },
+        {
           "id": "ko_kr.json",
           "name": "ko_kr.json",
           "type": "File",
           "artifact": {
             "size": 1439,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/aquaculturedelgiht/lang/ko_kr.json",
-            "MD5": "4ab67dd307127cfb24095501f068e197",
             "path": "kubejs/assets/aquaculturedelgiht/lang/ko_kr.json"
           }
         },
@@ -1624,7 +5603,6 @@
           "artifact": {
             "size": 5041,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/benssharks/lang/ko_kr.json",
-            "MD5": "f5e2ff9a1f3db7d736048faf99a509ea",
             "path": "kubejs/assets/benssharks/lang/ko_kr.json"
           }
         },
@@ -1635,7 +5613,6 @@
           "artifact": {
             "size": 1853,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/bettercopper/lang/ko_kr.json",
-            "MD5": "f292ddaf9d816cdaa73241dc7f586e38",
             "path": "kubejs/assets/bettercopper/lang/ko_kr.json"
           }
         },
@@ -1646,7 +5623,6 @@
           "artifact": {
             "size": 6195,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/bountiful_critters/lang/ko_kr.json",
-            "MD5": "e4624b17c41404dd8c16bc00040324df",
             "path": "kubejs/assets/bountiful_critters/lang/ko_kr.json"
           }
         },
@@ -1657,7 +5633,6 @@
           "artifact": {
             "size": 5180,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/dungeons_plus/lang/en_us.json",
-            "MD5": "56e91b77f321bf06e494cf5309c3929e",
             "path": "kubejs/assets/dungeons_plus/lang/en_us.json"
           }
         },
@@ -1668,7 +5643,6 @@
           "artifact": {
             "size": 5363,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/dungeons_plus/lang/ko_kr.json",
-            "MD5": "9b12e9596a393d2fe804a69e09efa07d",
             "path": "kubejs/assets/dungeons_plus/lang/ko_kr.json"
           }
         },
@@ -1679,7 +5653,6 @@
           "artifact": {
             "size": 21514,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/finsandtails/lang/ko_kr.json",
-            "MD5": "1d76a8094eed3876fa6b71e4bf7b1309",
             "path": "kubejs/assets/finsandtails/lang/ko_kr.json"
           }
         },
@@ -1690,7 +5663,6 @@
           "artifact": {
             "size": 22005,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/fishofthieves/lang/ko_kr.json",
-            "MD5": "2c2e417a1289e99eb280306a694a91ce",
             "path": "kubejs/assets/fishofthieves/lang/ko_kr.json"
           }
         },
@@ -1701,7 +5673,6 @@
           "artifact": {
             "size": 35787,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/ftbquets/lang/ko_kr.json",
-            "MD5": "5d4c446c521bcea0b8e881ae31e8e966",
             "path": "kubejs/assets/ftbquets/lang/ko_kr.json"
           }
         },
@@ -1712,7 +5683,6 @@
           "artifact": {
             "size": 8446,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/kubejs/lang/en_us.json",
-            "MD5": "9cd06ff4cbe52ad9d6b4ddff6318d330",
             "path": "kubejs/assets/kubejs/lang/en_us.json"
           }
         },
@@ -1723,7 +5693,6 @@
           "artifact": {
             "size": 9296,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/kubejs/lang/ko_kr.json",
-            "MD5": "7a7375aca9ff02aa48cf90d1399a215f",
             "path": "kubejs/assets/kubejs/lang/ko_kr.json"
           }
         },
@@ -1734,7 +5703,6 @@
           "artifact": {
             "size": 247,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/kubejs/textures/block/example_block.png",
-            "MD5": "4f2cf24a9f5a4c9ded2bc7c9a792355c",
             "path": "kubejs/assets/kubejs/textures/block/example_block.png"
           }
         },
@@ -1745,7 +5713,6 @@
           "artifact": {
             "size": 372,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/kubejs/textures/item/example_item.png",
-            "MD5": "d948c51230a1fbd8b7b27b7d0fa0dce6",
             "path": "kubejs/assets/kubejs/textures/item/example_item.png"
           }
         },
@@ -1756,7 +5723,6 @@
           "artifact": {
             "size": 16843,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/lfpirates/lang/ko_kr.json",
-            "MD5": "9df3cc1cf67ddaada44ad70b48b29cf7",
             "path": "kubejs/assets/lfpirates/lang/ko_kr.json"
           }
         },
@@ -1767,7 +5733,6 @@
           "artifact": {
             "size": 2544,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/musketmod/lang/ko_kr.json",
-            "MD5": "73d23ebac56e3a81ab736069553a17f6",
             "path": "kubejs/assets/musketmod/lang/ko_kr.json"
           }
         },
@@ -1778,7 +5743,6 @@
           "artifact": {
             "size": 599,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/lang/en_us.json",
-            "MD5": "78528a800683535c8b12f8972ec129f8",
             "path": "kubejs/assets/nangmansea/lang/en_us.json"
           }
         },
@@ -1789,7 +5753,6 @@
           "artifact": {
             "size": 812,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/lang/ko_kr.json",
-            "MD5": "51e94fa98de02050b02ad06878135de2",
             "path": "kubejs/assets/nangmansea/lang/ko_kr.json"
           }
         },
@@ -1800,7 +5763,6 @@
           "artifact": {
             "size": 46,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/diamond.json",
-            "MD5": "c2da1c89a75f0560c9adf3360a79bda1",
             "path": "kubejs/assets/nangmansea/tips/diamond.json"
           }
         },
@@ -1811,7 +5773,6 @@
           "artifact": {
             "size": 44,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/enjoy.json",
-            "MD5": "cb88752462e3a7ebdbf8f2d793db6667",
             "path": "kubejs/assets/nangmansea/tips/enjoy.json"
           }
         },
@@ -1822,7 +5783,6 @@
           "artifact": {
             "size": 45,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/mining.json",
-            "MD5": "0973044e2285c9ff7b2c39f7a6805740",
             "path": "kubejs/assets/nangmansea/tips/mining.json"
           }
         },
@@ -1833,7 +5793,6 @@
           "artifact": {
             "size": 46,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/nangman.json",
-            "MD5": "d4e8cdb8d1f0a6a9bcb382f99c16a1e4",
             "path": "kubejs/assets/nangmansea/tips/nangman.json"
           }
         },
@@ -1844,7 +5803,6 @@
           "artifact": {
             "size": 44,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/quest.json",
-            "MD5": "8fbc3ea1c5bd51199a2e71c9f36351ba",
             "path": "kubejs/assets/nangmansea/tips/quest.json"
           }
         },
@@ -1855,7 +5813,6 @@
           "artifact": {
             "size": 46,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/nangmansea/tips/trident.json",
-            "MD5": "7e6db593b1eb5f568b39678ccedbafd3",
             "path": "kubejs/assets/nangmansea/tips/trident.json"
           }
         },
@@ -1866,7 +5823,6 @@
           "artifact": {
             "size": 611,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/oceanvillagertrader/lang/ko_kr.json",
-            "MD5": "fb9b6b87fa4565897631cea1d24d9f1d",
             "path": "kubejs/assets/oceanvillagertrader/lang/ko_kr.json"
           }
         },
@@ -1877,7 +5833,6 @@
           "artifact": {
             "size": 11450,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/rainbowreef/lang/ko_kr.json",
-            "MD5": "7ebf7f08dc0fb7aabf2feb74755db67c",
             "path": "kubejs/assets/rainbowreef/lang/ko_kr.json"
           }
         },
@@ -1888,7 +5843,6 @@
           "artifact": {
             "size": 7211,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/spawn/lang/ko_kr.json",
-            "MD5": "110d78693b8b9b352f76c86e3be89472",
             "path": "kubejs/assets/spawn/lang/ko_kr.json"
           }
         },
@@ -1899,7 +5853,6 @@
           "artifact": {
             "size": 5598,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/taxov/lang/ko_kr.json",
-            "MD5": "33383ee59f5c81e76b41391185464e78",
             "path": "kubejs/assets/taxov/lang/ko_kr.json"
           }
         },
@@ -1910,7 +5863,6 @@
           "artifact": {
             "size": 154,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/trident_crafting_and_structures/lang/ko_kr.json",
-            "MD5": "c19c3fc86729597ebbc701a2c5a64829",
             "path": "kubejs/assets/trident_crafting_and_structures/lang/ko_kr.json"
           }
         },
@@ -1921,7 +5873,6 @@
           "artifact": {
             "size": 18332,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/assets/unusalfishmod/lang/ko_kr.json",
-            "MD5": "8137f30292504f80117d7df8da6c7b3b",
             "path": "kubejs/assets/unusalfishmod/lang/ko_kr.json"
           }
         },
@@ -1932,7 +5883,6 @@
           "artifact": {
             "size": 375,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/config/client.properties",
-            "MD5": "72332a1330182ad041e9b696d163e2b6",
             "path": "kubejs/config/client.properties"
           }
         },
@@ -1943,7 +5893,6 @@
           "artifact": {
             "size": 342,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/config/common.properties",
-            "MD5": "769b1d82f92e5db994f025cbe348356b",
             "path": "kubejs/config/common.properties"
           }
         },
@@ -1954,7 +5903,6 @@
           "artifact": {
             "size": 1203,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/README.txt",
-            "MD5": "9b7dd698e2035090afd6f76f2d493cc6",
             "path": "kubejs/README.txt"
           }
         },
@@ -1965,7 +5913,6 @@
           "artifact": {
             "size": 3996,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/advancement.js",
-            "MD5": "d69402df7746644f9ed34a31167039e8",
             "path": "kubejs/server_scripts/advancement.js"
           }
         },
@@ -1976,7 +5923,6 @@
           "artifact": {
             "size": 152,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/elderguardian.js",
-            "MD5": "90395a7f674f92a720408df1f5f8b5b2",
             "path": "kubejs/server_scripts/elderguardian.js"
           }
         },
@@ -1987,7 +5933,6 @@
           "artifact": {
             "size": 158,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/fishspawn.js",
-            "MD5": "e9af37aa13f573b2b0fb23c45642d6f3",
             "path": "kubejs/server_scripts/fishspawn.js"
           }
         },
@@ -1998,7 +5943,6 @@
           "artifact": {
             "size": 566,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/leather.js",
-            "MD5": "cb9da5123b5bc745de2c5c9fe333f821",
             "path": "kubejs/server_scripts/leather.js"
           }
         },
@@ -2009,7 +5953,6 @@
           "artifact": {
             "size": 7792,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/loot.js",
-            "MD5": "dbd52d74e03eb1ad66d4e5cd9deabbbb",
             "path": "kubejs/server_scripts/loot.js"
           }
         },
@@ -2020,7 +5963,6 @@
           "artifact": {
             "size": 1642,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/luck_of_the_sea.js",
-            "MD5": "28bd40e70f4d0b1824e7f6ac3c716011",
             "path": "kubejs/server_scripts/luck_of_the_sea.js"
           }
         },
@@ -2031,7 +5973,6 @@
           "artifact": {
             "size": 1673,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/piglin.js",
-            "MD5": "64f296119e829146c077baa0a11fef95",
             "path": "kubejs/server_scripts/piglin.js"
           }
         },
@@ -2042,7 +5983,6 @@
           "artifact": {
             "size": 1961,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/recipe.js",
-            "MD5": "764e83c38a3f4271131e46b9e42c5b07",
             "path": "kubejs/server_scripts/recipe.js"
           }
         },
@@ -2053,7 +5993,6 @@
           "artifact": {
             "size": 302,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/seagrass.js",
-            "MD5": "775c9a7129342207dbc6edbaca01f045",
             "path": "kubejs/server_scripts/seagrass.js"
           }
         },
@@ -2064,7 +6003,6 @@
           "artifact": {
             "size": 698,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/seal.js",
-            "MD5": "56b9772b6c7c46fdc654ff028e38841d",
             "path": "kubejs/server_scripts/seal.js"
           }
         },
@@ -2075,7 +6013,6 @@
           "artifact": {
             "size": 0,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/sharks.js",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "kubejs/server_scripts/sharks.js"
           }
         },
@@ -2086,7 +6023,6 @@
           "artifact": {
             "size": 240,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/startkit.js",
-            "MD5": "4206b2e1bf90ce0dd44dd2ed120781db",
             "path": "kubejs/server_scripts/startkit.js"
           }
         },
@@ -2097,7 +6033,6 @@
           "artifact": {
             "size": 1489,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/server_scripts/unusualfish.js",
-            "MD5": "f7f6ecce9b685053615fb1b05a572934",
             "path": "kubejs/server_scripts/unusualfish.js"
           }
         },
@@ -2108,7 +6043,6 @@
           "artifact": {
             "size": 141,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/startup_scripts/leviathan_blade.js",
-            "MD5": "a12b21c214373816148e0228a3e202dd",
             "path": "kubejs/startup_scripts/leviathan_blade.js"
           }
         },
@@ -2119,7 +6053,6 @@
           "artifact": {
             "size": 128,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/kubejs/startup_scripts/trident.js",
-            "MD5": "a5de9a5f1e11675613ce73355f0fff01",
             "path": "kubejs/startup_scripts/trident.js"
           }
         },
@@ -2130,8 +6063,18 @@
           "artifact": {
             "size": 174,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/options.txt",
-            "MD5": "23aec7bc62393126ce001282246db364",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "BetterHangulFont.zip",
+          "name": "BetterHangulFont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80065,
+            "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/resourcepacks/BetterHangulFont.zip",
+            "MD5": "7e53a307e7c7a9f12c7ed189ad416112",
+            "path": "resourcepacks/BetterHangulFont.zip"
           }
         },
         {
@@ -2196,7 +6139,6 @@
           "artifact": {
             "size": 0,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/scripts/armor.zs",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "scripts/armor.zs"
           }
         },
@@ -2207,7 +6149,6 @@
           "artifact": {
             "size": 64,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/servers.dat",
-            "MD5": "0b8057641a9d5542ddb0c7efc253ed42",
             "path": "servers.dat"
           }
         },
@@ -2229,7 +6170,6 @@
           "artifact": {
             "size": 176,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/BSLOriginal_v8.3.zip.txt",
-            "MD5": "d4d863a86e7fc9fe77f46a7c092a2374",
             "path": "shaderpacks/BSLOriginal_v8.3.zip.txt"
           }
         },
@@ -2251,7 +6191,6 @@
           "artifact": {
             "size": 94,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/BSL_v8.4p1.zip.txt",
-            "MD5": "29126341b42798db32bb9f21949f3a32",
             "path": "shaderpacks/BSL_v8.4p1.zip.txt"
           }
         },
@@ -2284,7 +6223,6 @@
           "artifact": {
             "size": 295,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
-            "MD5": "2c64f1758f66a034fd4544733d1a515d",
             "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
           }
         },
@@ -2306,7 +6244,6 @@
           "artifact": {
             "size": 177,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.3.zip.txt",
-            "MD5": "721347228403ef878b990549c8b4ae3b",
             "path": "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
           }
         },
@@ -2372,7 +6309,6 @@
           "artifact": {
             "size": 219,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip.txt",
-            "MD5": "c36a7f11a6a1e445d0379a1ca8e16635",
             "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip.txt"
           }
         },
@@ -2394,7 +6330,6 @@
           "artifact": {
             "size": 58,
             "url": "https://github.com/qdakim/ZzolZzolDong_file/raw/main/servers/ZzolZzolDong-1.20.1/files/shaderpacks/Solas%20Shader%20V2.3.zip.txt",
-            "MD5": "930c4eb5385f65d29de8c63c8accaad7",
             "path": "shaderpacks/Solas Shader V2.3.zip.txt"
           }
         },

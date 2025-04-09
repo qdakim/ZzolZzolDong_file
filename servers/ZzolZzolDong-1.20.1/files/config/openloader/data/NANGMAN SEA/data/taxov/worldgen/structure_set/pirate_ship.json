@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "taxov:pirate_ship",
+      "weight": 7
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 305,
+    "separation": 300,
+    "salt": 2102293747
+  }
+}
